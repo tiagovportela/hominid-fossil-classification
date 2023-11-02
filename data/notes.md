@@ -2,10 +2,12 @@
 # Notes on data files
 
 ## S1_Table_PeerJ_New_New
- - **GOL**: glabella-opistocranion length. 
- - **XCB**: maximum biparietal cranial breadth. 
- - **BBH**: basion-bregma height. BPL: basion-prosthion length. 
- - **NPH**: nasion-prosthion height. ZYB: bizygomatic breadth. 
+- **GOL**: glabella-opistocranion length. 
+- **XCB**: maximum biparietal cranial breadth. 
+- **BBH**: basion-bregma height. 
+- **BPL**: basion-prosthion length. 
+- **NPH**: nasion-prosthion height. 
+- **ZYB**: bizygomatic breadth. 
 
 All measurements are in mm. *indicates measurement taken on photographs for the new specimens included in the database.Bold type indicates measurement taken from 3D models.
 
