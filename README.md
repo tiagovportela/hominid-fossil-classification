@@ -17,7 +17,7 @@ This table have 10 columns, for my work i will only consider the following:
 - **ZYB**: bizygomatic breadth. 
 
 <figure>
-  <img src="assets/CranialMetric.png" alt="Cranial Metrics" width="600">
+  <img src="assets/cranialmetrics.png" alt="Cranial Metrics" width="600">
   <figcaption>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131055</figcaption>
 </figure>
 
