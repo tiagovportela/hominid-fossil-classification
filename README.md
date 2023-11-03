@@ -17,10 +17,9 @@ This table have 10 columns, for my work i will only consider the following:
 - **ZYB**: bizygomatic breadth. 
 
 <figure>
-  <img src="assets/CranialMetric.png" alt="Cranial Metrics">
-  <figcaption>https://www.mdpi.com/2076-3417/12/18/9285</figcaption>
+  <img src="assets/CranialMetric.png" alt="Cranial Metrics" width="600">
+  <figcaption>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131055</figcaption>
 </figure>
 
-<figure>
-  <img src="assets/cranialmetrics2.png" alt="Cranial Metrics">
-</figure>
+
+So the new dataset will be s1.csv
