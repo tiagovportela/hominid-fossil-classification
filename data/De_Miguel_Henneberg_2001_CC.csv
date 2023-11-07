@@ -1,0 +1,606 @@
+ID,u? (Taxon used?),1st taxon,Taxon used,multiple taxa?,Taxon,Date,CC (ml),min,max,mean
+AL 288-1 (Lucy),1,af,af,0,af,3200,380,380,,380
+AL 288-1 (Lucy),1,af,af,0,af,3200,410,410,,410
+AL162-28,1,af,af,0,af,3200,400,400,,400
+AL162-28,1,af,af,0,af,3200,375,375,,375
+AL162-28,1,af,af,0,af,3200,375-400,375,400,"387,5"
+AL333-105 (5 year old),1,af,af,0,af,3200,310-320,310,320,315
+AL333-105 (5 year old),1,af,af,0,af,3200,320,320,,320
+AL333-105 (adult),1,af,af,0,af,3200,343,343,,343
+AL333-105 (adult),1,af,af,0,af,3200,352,352,,352
+AL333-105 (adult),1,af,af,0,af,3200,400,400,,400
+AL333-45,1,af,af,0,af,3200,500,500,,500
+AL333-45,1,af,af,0,af,3200,485,485,,485
+AL333-45,1,af,af,0,af,3200,485-500,485,500,"492,5"
+AL444-2,1,af,af,0,af,2950,500,500,,500
+MLD-1 (A. prometheus),1,aa,aa,0,aa,2900,500,500,,500
+MLD-1 (A. prometheus),1,aa,aa,0,aa,2900,650,650,,650
+MLD-3,1,aa,aa,0,aa,2900,375-400,375,400,"387,5"
+MLD37-38 (MLD 37/43),1,aa,aa,0,aa,2900,425,425,,425
+MLD37-38 (MLD 37/43),1,aa,aa,0,aa,2900,435,435,,435
+MLD37-38 (MLD 37/43),1,aa,aa,0,aa,2900,480,480,,480
+Stw505 (Mr Ples),1,aa,aa,0,aa,2500,513,513,,513
+Stw505 (Mr Ples),1,aa,aa,0,aa,2500,515,515,,515
+Stw505 (Mr Ples),1,aa,aa,0,aa,2500,>600,600,,600
+Stw505 (Mr Ples),1,aa,aa,0,aa,2500,625,625,,625
+Stw505 (Mr Ples),1,aa,aa,0,aa,2500,586-598,586,598,592
+Stw505 (Mr Ples),1,aa,aa,0,aa,2500,566.5-592.3,"566,5","592,3","579,4"
+"KNM-WT17000
+(black skull)",1,ab,ab,1,"ab, aae",2500,410,410,,410
+Plesianthropus (B),0,ples,0,1,"ples transv, aa",2500,600,600,,600
+Plesianthropus type (A),0,ples,0,1,"ples transv, aa",2500,440,440,,440
+Plesianthropus type 2,1,aa,aa,1,"aa, ples trans",2500,457,457,,457
+Plesianthropus type 2,1,aa,aa,1,"aa, ples trans",2500,510-580,510,580,545
+Plesianthropus type 2,1,aa,aa,1,"aa, ples trans",2500,520-540,520,540,530
+Plesianthropus type 3,1,aa,aa,1,"aa, ples trans",2500,286,286,,286
+STS mandible *,0,aa,0,1,"aa, ples trans",2500,600-700*,600,700,650
+STS mandible *,0,aa,0,1,"aa, ples trans",2500,>700-750*,700,750,725
+"STS60 (Ples 1,
+Sterkfontein 1, Sts 1)",1,aa,aa,1,"aa, ples trans",2500,428,428,,428
+"STS60 (Ples 1, Sterkfontein 1, Sts 1)",1,aa,aa,1,"aa, ples trans",2500,435,435,,435
+"STS60 (Ples 1, Sterkfontein 1, Sts 1)",1,aa,aa,1,"aa, ples trans",2500,450,450,,450
+"STS5 (Mrs/Mr Ples, Ples 5, Sterkfontein 5)",1,aa,aa,1,"aa, ples trans",2500,475-500,475,500,"487,5"
+"STS5 (Mrs/Mr Ples, Ples 5, Sterkfontein 5)",1,aa,aa,1,"aa, ples trans",2500,480,480,,480
+"STS5 (Mrs/Mr Ples, Ples 5, Sterkfontein 5)",1,aa,aa,1,"aa, ples trans",2500,482,482,,482
+"STS5 (Mrs/Mr Ples, Ples 5, Sterkfontein 5)",1,aa,aa,1,"aa, ples trans",2500,485,485,,485
+"STS5 (Mrs/Mr Ples, Ples 5, Sterkfontein 5)",1,aa,aa,1,"aa, ples trans",2500,500,500,,500
+"STS71 (Ples 7, Sterkfontein 7, Sts 7)",1,aa,aa,1,"aa, ples trans",2500,370,370,,370
+"STS71 (Ples 7, Sterkfontein 7, Sts 7)",1,aa,aa,1,"aa, ples trans",2500,428,428,,428
+"STS71 (Ples 7, Sterkfontein 7, Sts 7)",1,aa,aa,1,"aa, ples trans",2500,480-520,480,520,500
+"STS71 (Ples 7, Sterkfontein 7, Sts 7)",1,aa,aa,1,"aa, ples trans",2500,500,500,,500
+"STS19/58 (Ples 8, Sterkf 19, Sterkf 8, Sts 8)",1,aa,aa,1,"aa, ples trans",2500,436,436,,436
+"STS19/58 (Ples 8, Sterkf 19, Sterkf 8, Sts 8)",1,aa,aa,1,"aa, ples trans",2500,525-550,525,550,"537,5"
+"STS19/58 (Ples 8, Sterkf 19, Sterkf 8, Sts 8)",1,aa,aa,1,"aa, ples trans",2500,530,530,,530
+"STS19/58 (Ples 8, Sterkf 19, Sterkf 8, Sts 8)",1,aa,aa,1,"aa, ples trans",2500,550-570,550,570,560
+"STS19/58 (Ples 8, Sterkf 19, Sterkf 8, Sts 8)",1,aa,aa,1,"aa, ples trans",2500,560,560,,560
+STS 17,1,aa,aa,0,aa,2500,400-425,400,425,"412,5"
+STS 25,1,aa,aa,0,aa,2500,350-375,350,375,"362,5"
+BOU-VP-12/130,1,ag,ag,0,ag,2500,450,450,,450
+Omo L338y-6 (adult),0,a,0,1,"a, aae, aa, ab",2390,448,448,,448
+Omo L338y-6 (adult),0,a,0,1,"a, aae, aa, ab",2390,440,440,,440
+Omo L338y-6 (child 10yo) (Omo 338s),0,a,0,1,"a ,aae, aa, ab",2390,427,427,,427
+Omo L 323-1976-896,1,ab,ab,0,ab,2250,490,490,,490
+KNM- ER13750,1,ab,ab,0,ab,2000,450,450,,450
+KNM- ER13750,1,ab,ab,0,ab,2000,450-480,450,480,465
+KNM- ER13750,1,ab,ab,0,ab,2000,475-480,475,480,"477,5"
+KNM- ER13750,1,ab,ab,0,ab,2000,500,500,,500
+KNM- ER13750,1,ab,ab,0,ab,2000,530,530,,530
+Taung child,1,aa,aa,0,aa,2000,404,404,,404
+Taung child,1,aa,aa,0,aa,2000,405,405,,405
+Taung child,1,aa,aa,0,aa,2000,450,450,,450
+Taung child,1,aa,aa,0,aa,2000,494,494,,494
+Taung child,1,aa,aa,0,aa,2000,500,500,,500
+Taung child,1,aa,aa,0,aa,2000,500-520,500,520,510
+Taung child,1,aa,aa,0,aa,2000,520,520,,520
+Taung child (adult),1,aa,aa,0,aa,2000,412,412,,412
+Taung child (adult),1,aa,aa,0,aa,2000,425,425,,425
+Taung child (adult),1,aa,aa,0,aa,2000,440,440,,440
+Taung child (adult),1,aa,aa,0,aa,2000,520,520,,520
+Taung child (adult),1,aa,aa,0,aa,2000,540,540,,540
+Taung child (adult),1,aa,aa,0,aa,2000,515- 566,515,566,"540,5"
+Taung child (adult),1,aa,aa,0,aa,2000,543,543,,543
+Taung child (adult),1,aa,aa,0,aa,2000,562,562,,562
+Taung child (adult),1,aa,aa,0,aa,2000,"562,5",562,5,"283,5"
+Taung child (adult),1,aa,aa,0,aa,2000,570,570,,570
+Taung child (adult),1,aa,aa,0,aa,2000,600,600,,600
+Taung child (adult),1,aa,aa,0,aa,2000,624,624,,624
+Taung child (adult),1,aa,aa,0,aa,2000,625,625,,625
+Taung child (adult),1,aa,aa,0,aa,2000,728,728,,728
+TM1511*,0,aa,0,0,aa,2000,425-450,425,450,"437,5"
+TM1517a (Kromdaai B),ar,par,ar,1,"par, ar",2000,600,600,,600
+TM1517a (Kromdaai B),ar,par,ar,1,"par, ar",2000,650,650,,650
+ER23000,1,ab,ab,0,ab,1900,491,491,,491
+SK 46,1,ar,ar,0,ar,1900,>800,800,,800
+SK 46,1,ar,ar,0,ar,1900,625,625,,625
+SK 47 (adult),early h,ar,early h,1,"ar, early h",1900,480-710,480,710,595
+SK 47 (juv. 11 year old),early h,ar,early h,1,"ar, early h",1900,364±92,272,456,364
+SK 47 (juv. 11 year old),early h,ar,early h,1,"ar, early h",1900,495,495,,495
+SK 48,1,ar,ar,0,ar,1900,750,750,,750
+SK 48,1,ar,ar,0,ar,1900,450,450,,450
+SK ? *,0,ar,0,0,ar,1900,1000,1000,,1000
+"SK ? (6-7 year old, male)*",0,ar,0,0,ar,1900,750-800,750,800,775
+"SK ? (adolescent, female)*",0,ar,0,0,ar,1900,700,700,,700
+SK 27,0,h,0,0,h,1900,475,475,,475
+SK 49,1,ar,ar,0,ar,1900,475,475,,475
+SK 52,1,ar,ar,0,ar,1900,575,575,,575
+SK 54,1,ar,ar,0,ar,1900,450,450,,450
+SK 54,1,ar,ar,0,ar,1900,500,500,,500
+SK 80,0,h,0,0,h,1900,475,475,,475
+SK1585,1,ar,ar,0,ar,1900,475,475,,475
+SK1585,1,ar,ar,0,ar,1900,500,500,,500
+SK1585,1,ar,ar,0,ar,1900,530,530,,530
+SK 847,early h,h,early h,1,"h, hh/he, herg, early h",1900,554,554,,554
+SK 847,early h,h,early h,1,"h, hh/he, herg, early h",1900,460±175,285,635,460
+SK80/847,0,h,0,1,"h, hh/he, herg",1900,500,500,,500
+Stw 53,1,early h,early h,0,early h,1900,460-680,460,680,570
+Omo L894-1,0,h,0,0,h,1890,500,500,,500
+ER1470,hh,aa-hh,hh,1,"aa-hh, h, hh, hrud",1890,752,752,,752
+ER1470,hh,aa-hh,hh,1,"aa-hh, h, hh, hrud",1890,770,770,,770
+ER1470,hh,aa-hh,hh,1,"aa-hh, h, hh, hrud",1890,773,773,,773
+ER1470,hh,aa-hh,hh,1,"aa-hh, h, hh, hrud",1890,775,775,,775
+ER1470,hh,aa-hh,hh,1,"aa-hh, h, hh, hrud",1890,810,810,,810
+ER1813,hh,aa-hh,hh,1,"aa-hh, habiline, hh",1890,500,500,,500
+ER1813,hh,aa-hh,hh,1,"aa-hh, habiline, hh",1890,509,509,,509
+ER1813,hh,aa-hh,hh,1,"aa-hh, habiline, hh",1890,510,510,,510
+ER3732,hh,habiline,hh,1,"habiline, hh",1890,545,545,,545
+ER3732,hh,habiline,hh,1,"habiline, hh",1890,700,700,,700
+ER1590 (juv. 8 year old),0,aa-hh,0,1,"aa-hh, hh",1850,>700,700,,700
+ER1590 (juv. 8 year old),0,aa-hh,0,1,"aa-hh, hh",1850,750,750,,750
+ER1590 (juv. 8 year old),0,aa-hh,0,1,"aa-hh, hh",1850,810,810,,810
+ER1590 (juv. 8 year old),0,aa-hh,0,1,"aa-hh, hh",1850,870,870,,870
+ER1805,hh,a,hh,1,"a, aa-hh, hh",1850,582,582,,582
+ER1805,hh,a,hh,1,"a, aa-hh, hh",1850,600-700,600,700,650
+Dmanisi A,1,h,h,0,h,1800,775-780,775,780,"777,5"
+Dmanisi B,1,h,h,0,h,1800,650,650,,650
+"Modjokerto (adult) (Perning I, Pithecanthropus V)",1,he,he,0,he,1800,740,740,,740
+"Modjokerto (adult) (Perning I, Pithecanthropus V)",1,he,he,0,he,1800,740-860,740,860,800
+"Modjokerto (adult) (Perning I, Pithecanthropus V)",1,he,he,0,he,1800,750,750,,750
+"Modjokerto (adult) (Perning I, Pithecanthropus V)",1,he,he,0,he,1800,900,900,,900
+"Modjokerto (adult) (Perning I, Pithecanthropus V)",1,he,he,0,he,1800,940,940,,940
+"Modjokerto (adult) (Perning I, Pithecanthropus V)",1,he,he,0,he,1800,1000,1000,,1000
+"Modjokerto (child) (Perning I, Pithecanthropus V)",0,he,0,0,he,1800,636-700,636,700,668
+"Modjokerto (child) (Perning I, Pithecanthropus V)",0,he,0,0,he,1800,673,673,,673
+"Modjokerto (child) (Perning I, Pithecanthropus V)",0,he,0,0,he,1800,650,650,,650
+"Modjokerto (child) (Perning I, Pithecanthropus V)",0,he,0,0,he,1800,700,700,,700
+OH24 (Twiggy) (Olduvai hominid 24),1,hh,hh,1,"hh, aa",1800,560,560,,560
+OH24 (Twiggy) (Olduvai hominid 24),1,hh,hh,1,"hh, aa",1800,565,565,,565
+OH24 (Twiggy) (Olduvai hominid 24),1,hh,hh,1,"hh, aa",1800,575,575,,575
+OH24 (Twiggy) (Olduvai hominid 24),1,hh,hh,1,"hh, aa",1800,590,590,,590
+OH24 (Twiggy) (Olduvai hominid 24),1,hh,hh,1,"hh, aa",1800,593,593,,593
+OH24 (Twiggy) (Olduvai hominid 24),1,hh,hh,1,"hh, aa",1800,594,594,,594
+OH24 (Twiggy) (Olduvai hominid 24),1,hh,hh,1,"hh, aa",1800,597,597,,597
+OH24 (Twiggy) (Olduvai hominid 24),1,hh,hh,1,"hh, aa",1800,<600,600,,600
+OH24 (Twiggy) (Olduvai hominid 24),1,hh,hh,1,"hh, aa",1800,>600,600,,600
+KNM-WT17400,1,ab,ab,0,ab,1800,390-400,390,400,395
+KNM-WT17400,1,ab,ab,0,ab,1800,500,500,,500
+ER3733 (Koobi Fora),1,he,he,1,"he, early hs, herg",1780,800,800,,800
+ER3733 (Koobi Fora),1,he,he,1,"he, early hs, herg",1780,804,804,,804
+ER3733 (Koobi Fora),1,he,he,1,"he, early hs, herg",1780,800-850,800,850,825
+ER3733 (Koobi Fora),1,he,he,1,"he, early hs, herg",1780,848,848,,848
+ER3733 (Koobi Fora),1,he,he,1,"he, early hs, herg",1780,850,850,,850
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,500,500,,500
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,560,560,,560
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,590,590,,590
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,600,600,,600
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,647,647,,647
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,657,657,,657
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,674,674,,674
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,675,675,,675
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,687,687,,687
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,690,690,,690
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,700,700,,700
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,725,725,,725
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,675-680,675,680,"677,5"
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,680,680,,680
+OH7 (Olduvai hominid)(juv),hh,ar,hh,1,"ar, aa-hh, hh",1780,700-750,700,750,725
+OH7 (adult) (Olduvai hominid),hh,ar,hh,1,"ar, aa-hh, hh",1780,674,674,,674
+OH7 (adult) (Olduvai hominid),hh,ar,hh,1,"ar, aa-hh, hh",1780,684,684,,684
+OH5 (Zinj) (Olduvai hominid),1,ab,ab,1,"ab, ar-ab",1770,522,522,,522
+OH5 (Zinj) (Olduvai hominid),1,ab,ab,1,"ab, ar-ab",1770,530,530,,530
+OH5 (Zinj) (Olduvai hominid),1,ab,ab,1,"ab, ar-ab",1770,600,600,,600
+OH5 (Zinj) (Olduvai hominid),1,ab,ab,1,"ab, ar-ab",1770,700,700,,700
+OH16 (George) (adult) (Olduvai hominid),hh,aa-hh,hh,1,"aa-hh, hh, h",1670,633,633,,633
+OH16 (George) (adult) (Olduvai hominid),hh,aa-hh,hh,1,"aa-hh, hh, h",1670,635,635,,635
+OH16 (George) (adult) (Olduvai hominid),hh,aa-hh,hh,1,"aa-hh, hh, h",1670,638,638,,638
+OH16 (George) (adult) (Olduvai hominid),hh,aa-hh,hh,1,"aa-hh, hh, h",1670,640,640,,640
+OH16 (George) (adult) (Olduvai hominid),hh,aa-hh,hh,1,"aa-hh, hh, h",1670,650,650,,650
+OH16 (George) (juv) (Olduvai hominid),hh,aa-hh,hh,1,"aa-hh, hh, h",1670,525,525,,525
+OH16 (George) (juv) (Olduvai hominid),hh,aa-hh,hh,1,"aa-hh, hh, h",1670,620,620,,620
+OH16 (George) (juv) (Olduvai hominid),hh,aa-hh,hh,1,"aa-hh, hh, h",1670,622,622,,622
+OH16 (George) (juv) (Olduvai hominid),hh,aa-hh,hh,1,"aa-hh, hh, h",1670,624,624,,624
+OH16 (George) (juv) (Olduvai hominid),hh,aa-hh,hh,1,"aa-hh, hh, h",1670,625,625,,625
+OH16 (George) (juv) (Olduvai hominid),hh,aa-hh,hh,1,"aa-hh, hh, h",1670,667,667,,667
+OH13 (Cinderella)(adult) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,650,650,,650
+OH13 (Cinderella)(adult) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,652,652,,652
+OH13 (Cinderella)(adult) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,655,655,,655
+OH13 (Cinderella)(adult) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,657,657,,657
+OH13 (Cinderella)(adult) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,660,660,,660
+OH13 (Cinderella)(adult) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,673,673,,673
+OH13 (Cinderella)(adult) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,689,689,,689
+OH13 (Cinderella)(juv) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,501,501,,501
+OH13 (Cinderella)(juv) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,638,638,,638
+OH13 (Cinderella)(juv) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,639,639,,639
+OH13 (Cinderella)(juv) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,644,644,,644
+OH13 (Cinderella)(juv) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,646,646,,646
+OH13 (Cinderella)(juv) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,669,669,,669
+OH13 (Cinderella)(juv) (Olduvai hominid),hh,aa,hh,1,"aa, aa-hh, hh",1660,675,675,,675
+Sangiran 31 (S 31),1,he,he,0,he,1660,1000,1000,,1000
+ER406 (FS-158) male (Koobi Fora) KNM-ER 406,ab,ab-ar,ab,1,"ab-ar, ab",1640,510,510,,510
+ER406 (FS-158) male (Koobi Fora) KNM-ER 406,ab,ab-ar,ab,1,"ab-ar, ab",1640,520,520,,520
+ER406 (FS-158) male (Koobi Fora) KNM-ER 406,ab,ab-ar,ab,1,"ab-ar, ab",1640,525,525,,525
+ER407 (FS-210) (Koobi Fora) KNM-ER 407,1,ab,ab,0,ab,1640,506,506,,506
+ER407 (FS-210) (Koobi Fora) KNM-ER 407,1,ab,ab,0,ab,1640,508,508,,508
+ER407 (FS-210) (Koobi Fora) KNM-ER 407,1,ab,ab,0,ab,1640,510,510,,510
+ER732 (FS-160) (Koobi Fora) KNM-ER 732,ab,ab-ar,ab,1,"ab-ar, ab",1640,500,500,,500
+ER732 (FS-160) (Koobi Fora) KNM-ER 732,ab,ab-ar,ab,1,"ab-ar, ab",1640,506,506,,506
+ER736 (possible confusion with ER732)*,0,ar,0,0,ar,1640,504,504,,504
+KNM-WT 15000 (adult) (WT 15K)(Nariokotome),1,he,he,1,"he, herg",1600,909,909,,909
+KNM-WT 15000 (adult) (WT 15K)(Nariokotome),1,he,he,1,"he, herg",1600,900,900,,900
+KNM-WT15000 (juv) (WT 15K)(Nariokotome),1,he,he,1,"he, herg",1600,880,880,,880
+ER3883,1,he,he,1,"he, early hs",1570,804,804,,804
+ER3883,1,he,he,1,"he, early hs",1570,800-850,800,850,825
+ER3883,1,he,he,1,"he, early hs",1570,848,848,,848
+Chesowanja 1 (Baringo),1,ar,ar,0,ar,1550,550,550,,550
+Chesowanja 1 (Baringo),1,ar,ar,0,ar,1550,>530,530,,530
+KGA10-525,1,ab,ab,0,ab,1420,545,545,,545
+OH9 (Chellean man),1,he,he,0,he,1200,1000,1000,,1000
+OH9 (Chellean man),1,he,he,0,he,1200,1060-1070,1060,1070,1065
+OH9 (Chellean man),1,he,he,0,he,1200,1067,1067,,1067
+OH9 (Chellean man),1,he,he,0,he,1200,1100-1200,1100,1200,1150
+Sangiran 9 (Pithecanthropus IX),1,he,he,0,he,1200,856,856,,856
+"Gongwangling 1 (Lantian I, Lantian 2)",1,he,he,0,he,1150,780,780,,780
+"Gongwangling 1 (Lantian I, Lantian 2)",1,he,he,0,he,1150,775-783,775,783,779
+"Gongwangling 1 (Lantian I, Lantian 2)",1,he,he,0,he,1150,778,778,,778
+Sangiran 4 (Pithecanthropus IV) (Homo erectus IV) (S4),1,he,he,1,"he, pr",1000,750,750,,750
+Sangiran 4 (Pithecanthropus IV) (Homo erectus IV) (S4),1,he,he,1,"he, pr",1000,808,808,,808
+Sangiran 4 (Pithecanthropus IV) (Homo erectus IV) (S4),1,he,he,1,"he, pr",1000,880,880,,880
+Sangiran 4 (Pithecanthropus IV) (Homo erectus IV) (S4),1,he,he,1,"he, pr",1000,890,890,,890
+Sangiran 4 (Pithecanthropus IV) (Homo erectus IV) (S4),1,he,he,1,"he, pr",1000,900,900,,900
+Sangiran 4 (Pithecanthropus IV) (Homo erectus IV) (S4),1,he,he,1,"he, pr",1000,908,908,,908
+UA 31,0,h,0,0,h,1000,750-800,750,800,775
+"Trinil 2 (Pithecanthropus I, Homo erectus I)",1,he,he,1,"he, pe",900,850,850,,850
+"Trinil 2 (Pithecanthropus I, Homo erectus I)",1,he,he,1,"he, pe",900,855,855,,855
+"Trinil 2 (Pithecanthropus I, Homo erectus I)",1,he,he,1,"he, pe",900,"897,5",897,5,451
+"Trinil 2 (Pithecanthropus I, Homo erectus I)",1,he,he,1,"he, pe",900,900,900,,900
+"Trinil 2 (Pithecanthropus I, Homo erectus I)",1,he,he,1,"he, pe",900,914,914,,914
+"Trinil 2 (Pithecanthropus I, Homo erectus I)",1,he,he,1,"he, pe",900,935,935,,935
+"Trinil 2 (Pithecanthropus I, Homo erectus I)",1,he,he,1,"he, pe",900,940,940,,940
+"Trinil 2 (Pithecanthropus I, Homo erectus I)",1,he,he,1,"he, pe",900,943,943,,943
+"Trinil 2 (Pithecanthropus I, Homo erectus I)",1,he,he,1,"he, pe",900,953,953,,953
+"Trinil 2 (Pithecanthropus I, Homo erectus I)",1,he,he,1,"he, pe",900,1000,1000,,1000
+"Sangiran 2 (Pithecanthropus II, Homo erectus II) (S2)",1,he,he,1,"he, pe",900,745,745,,745
+"Sangiran 2 (Pithecanthropus II, Homo erectus II) (S2)",1,he,he,1,"he, pe",900,750,750,,750
+"Sangiran 2 (Pithecanthropus II, Homo erectus II) (S2)",1,he,he,1,"he, pe",900,775,775,,775
+"Sangiran 2 (Pithecanthropus II, Homo erectus II) (S2)",1,he,he,1,"he, pe",900,800,800,,800
+"Sangiran 2 (Pithecanthropus II, Homo erectus II) (S2)",1,he,he,1,"he, pe",900,813,813,,813
+"Sangiran 2 (Pithecanthropus II, Homo erectus II) (S2)",1,he,he,1,"he, pe",900,815,815,,815
+"Sangiran 2 (Pithecanthropus II, Homo erectus II) (S2)",1,he,he,1,"he, pe",900,850,850,,850
+"Sangiran 3 (juv) (Pithecanthropus III, Homo erectus III) (S3)",1,he,he,1,"he, pe",900,890,890,,890
+"Sangiran 3 (adult) (Pithecanthropus III, Homo erectus III)(S3)",1,he,he,1,"he, pe",900,900,900,,900
+"Sangiran 12 (Pithecanthropus VII, Homo erectus VII) (S12)",1,he,he,1,"he, pe",900,900,900,,900
+"Sangiran 12 (Pithecanthropus VII, Homo erectus VII) (S12)",1,he,he,1,"he, pe",900,915,915,,915
+"Sangiran 12 (Pithecanthropus VII, Homo erectus VII) (S12)",1,he,he,1,"he, pe",900,930,930,,930
+"Sangiran 12 (Pithecanthropus VII, Homo erectus VII) (S12)",1,he,he,1,"he, pe",900,1059,1059,,1059
+"Sangiran 17 (Pithecanthropus VIII, Homo erectus VIII)(S17)",1,he,he,1,"he, pe",900,1004,1004,,1004
+"Sangiran 17 (Pithecanthropus VIII, Homo erectus VIII)(S17)",1,he,he,1,"he, pe",900,1027,1027,,1027
+"Sangiran 17 (Pithecanthropus VIII, Homo erectus VIII)(S17)",1,he,he,1,"he, pe",900,1029,1029,,1029
+"Sangiran 10 (Pithecanthropus V, VI; Homo erectus V, VI)(S10)",1,he,he,1,"he, pe",850,700,700,,700
+"Sangiran 10 (Pithecanthropus V, VI; Homo erectus V, VI)(S10)",1,he,he,1,"he, pe",850,855,855,,855
+"Sangiran 10 (Pithecanthropus V, VI; Homo erectus V, VI)(S10)",1,he,he,1,"he, pe",850,900,900,,900
+"Sangiran 10 (Pithecanthropus V, VI; Homo erectus V, VI)(S10)",1,he,he,1,"he, pe",850,913,913,,913
+"Sangiran 10 (Pithecanthropus V, VI; Homo erectus V, VI)(S10)",1,he,he,1,"he, pe",850,975,975,,975
+OH 12,1,he,he,0,he,840,720,720,,720
+OH 12,1,he,he,0,he,840,727,727,,727
+OH 12,1,he,he,0,he,840,700-800,700,800,750
+Ternifine (Tighenif),0,ahs,0,0,ahs,750,1300,1300,,1300
+Ceprano,ahs,late,ahs,1,"late he, ahs",700,1185,1185,,1185
+Bodo,1,ahs,ahs,1,"ahs, hhei",600,1250,1250,,1250
+Bodo,1,ahs,ahs,1,"ahs, hhei",600,1300,1300,,1300
+Zhoukoudian E1 (III) (juv) (Sin III),1,he,he,1,"he, sin pek",550,915,915,,915
+Zhoukoudian E1 (III) (juv) (Sin III),1,he,he,1,"he, sin pek",550,960,960,,960
+Sambungmacan 1 (Sambungmachan 1),1,he,he,1,"he, hs",500,1034,1034,,1034
+Sambungmacan 1 (Sambungmachan 1),1,he,he,1,"he, hs",500,1035,1035,,1035
+Sambungmacan 1 (Sambungmachan 1),1,he,he,1,"he, hs",500,1100,1100,,1100
+Arago 21 (XXI & XLVII),1,ahs,ahs,1,"ahs, hs, hhei",400,1166,1166,,1166
+Arago 21 (XXI & XLVII),1,ahs,ahs,1,"ahs, hs, hhei",400,1100,1100,,1100
+Arago 21 (XXI & XLVII),1,ahs,ahs,1,"ahs, hs, hhei",400,1100-1200,1100,1200,1150
+Salé 1,1,he,he,0,he,400,860,860,,860
+Salé 1,1,he,he,0,he,400,880,880,,880
+Salé 1,1,he,he,0,he,400,925,925,,925
+Salé 1,1,he,he,0,he,400,945,945,,945
+Salé 1,1,he,he,0,he,400,930-960,930,960,945
+Zhoukoudian D1 (II) (Sin II),1,he,he,1,"he, sin pek",400,1030,1030,,1030
+Zhoukoudian H3 (V),1,he,he,1,"he, sin pek",400,1140,1140,,1140
+Zhoukoudian H3 (V),1,he,he,1,"he, sin pek",400,1300,1300,,1300
+Zhoukoudian L1 (X) (Sin X),1,he,he,1,"he, sin pek",400,1225,1225,,1225
+Zhoukoudian L2 (XI)(Sin XI),1,he,he,1,"he, sin pek",400,1015,1015,,1015
+Zhoukoudian L3 (XII) (Sin XII),1,he,he,1,"he, sin pek",400,1030,1030,,1030
+Zhouk (XXI) (possible confusion with XII)*,0,he,0,1,"he, sin pek",400,1030 *,1030,,1030
+"Broken Hill 1 (Kabwe, Rhodesian)",ahs,he,ahs,1,"he, n-hs, ahs, hs, hhei",350,1270,1270,,1270
+"Broken Hill 1 (Kabwe, Rhodesian)",ahs,he,ahs,1,"he, n-hs, ahs, hs, hhei",350,1280,1280,,1280
+"Broken Hill 1 (Kabwe, Rhodesian)",ahs,he,ahs,1,"he, n-hs, ahs, hs, hhei",350,1285,1285,,1285
+"Broken Hill 1 (Kabwe, Rhodesian)",ahs,he,ahs,1,"he, n-hs, ahs, hs, hhei",350,1300,1300,,1300
+"Broken Hill 1 (Kabwe, Rhodesian)",ahs,he,ahs,1,"he, n-hs, ahs, hs, hhei",350,1325,1325,,1325
+"Broken Hill 1 (Kabwe, Rhodesian)",ahs,he,ahs,1,"he, n-hs, ahs, hs, hhei",350,1400,1400,,1400
+Ndutu 1,ahs,he-n,ahs,1,"he-n, ahs",350,1100,1100,,1100
+"Saldanha 1 (Elandsfontein, Hopefield)",ahs,he,ahs,1,"he, he-ahs, ahs",350,1200,1200,,1200
+"Saldanha 1 (Elandsfontein, Hopefield)",ahs,he,ahs,1,"he, he-ahs, ahs",350,1225,1225,,1225
+"Saldanha 1 (Elandsfontein, Hopefield)",ahs,he,ahs,1,"he, he-ahs, ahs",350,1200-1250,1200,1250,1225
+Yunxian (EV9002 skull II),1,he,he,0,he,350,1100,1100,,1100
+Atapuerca 4 (AT 600),hhei,ahs,hhei,1,"ahs, hhei",300,1390,1390,,1390
+Atapuerca 5 (AT 700),hhei,ahs,hhei,1,"ahs, hhei",300,1125,1125,,1125
+Atapuerca 6 (11-14 year old),hhei,ahs,hhei,1,"ahs, hhei",300,1100,1100,,1100
+Atapuerca 6 (11-14 year old),hhei,ahs,hhei,1,"ahs, hhei",300,1140,1140,,1140
+Atapuerca 6 (11-14 year old),hhei,ahs,hhei,1,"ahs, hhei",300,1220,1220,,1220
+Petralona 1,ahs,n-he,ahs,1,"n-he, ahs, hhei",300,1155,1155,,1155
+Petralona 1,ahs,n-he,ahs,1,"n-he, ahs, hhei",300,1170,1170,,1170
+Petralona 1,ahs,n-he,ahs,1,"n-he, ahs, hhei",300,1200,1200,,1200
+Petralona 1,ahs,n-he,ahs,1,"n-he, ahs, hhei",300,1220,1220,,1220
+Petralona 1,ahs,n-he,ahs,1,"n-he, ahs, hhei",300,1230,1230,,1230
+Petralona 1,ahs,n-he,ahs,1,"n-he, ahs, hhei",300,1384,1384,,1384
+Petralona 1,ahs,n-he,ahs,1,"n-he, ahs, hhei",300,1400,1400,,1400
+Petralona 1,ahs,n-he,ahs,1,"n-he, ahs, hhei",300,1440,1440,,1440
+Petralona 1,ahs,n-he,ahs,1,"n-he, ahs, hhei",300,1190-1210,1190,1210,1200
+Reilingn,0,ahs,0,0,ahs,300,1434,1434,,1434
+Reilingn,0,ahs,0,0,ahs,300,1430,1430,,1430
+Steinheim 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs, hhei",300,900,900,,900
+Steinheim 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs, hhei",300,922,922,,922
+Steinheim 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs, hhei",300,950,950,,950
+Steinheim 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs, hhei",300,1000,1000,,1000
+Steinheim 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs, hhei",300,1070,1070,,1070
+Steinheim 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs, hhei",300,1100,1100,,1100
+Steinheim 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs, hhei",300,1110,1110,,1110
+Steinheim 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs, hhei",300,1163,1163,,1163
+Steinheim 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs, hhei",300,1170,1170,,1170
+Steinheim 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs, hhei",300,1239,1239,,1239
+Steinheim 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs, hhei",300,1150-1175,1150,1175,"1162,5"
+Steinheim 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs, hhei",300,1184-1214,1184,1214,1199
+Steinheim 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs, hhei",300,1460,1460,,1460
+Swanscombe 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs",300,1250,1250,,1250
+Swanscombe 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs",300,1275,1275,,1275
+Swanscombe 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs",300,1300,1300,,1300
+Swanscombe 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs",300,1325,1325,,1325
+Swanscombe 1,ahs,he-hs,ahs,1,"he-hs, he-n, n, ahs, hs",300,1375,1375,,1375
+Zhoukoudian (VI) (Sin VI),1,he,he,1,"he, sin pek",300,850,850,,850
+Narmada 1,1,ahs,ahs,1,"ahs, hs",300,1200,1200,,1200
+Narmada 1,1,ahs,ahs,1,"ahs, hs",300,1260,1260,,1260
+Narmada 1,1,ahs,ahs,1,"ahs, hs",300,1155-1421,1155,1421,1288
+KNM-ER3884,1,ahs,ahs,0,ahs,270,1400,1400,,1400
+Hexian (PA 830),1,he,he,0,he,250,1000,1000,,1000
+Hexian I (PA 830),1,he,he,0,he,250,1025,1025,,1025
+Dali 1 (Ta-li),ahs,he,ahs,1,"he, he-n, ahs, hs",205,1120,1120,,1120
+Dali 1 (Ta-li),ahs,he,ahs,1,"he, he-n, ahs, hs",205,1200,1200,,1200
+Ehringsdorf 9,1,n,n,0,n,203,1450,1450,,1450
+"Solo 1 , Ngandong 1",1,he,he,1,"he, he-n",200,1000,1000,,1000
+"Solo 1 , Ngandong 1",1,he,he,1,"he, he-n",200,1035,1035,,1035
+"Solo 1 , Ngandong 1",1,he,he,1,"he, he-n",200,1140,1140,,1140
+"Solo 1 , Ngandong 1",1,he,he,1,"he, he-n",200,1143,1143,,1143
+"Solo 1 , Ngandong 1",1,he,he,1,"he, he-n",200,1160,1160,,1160
+"Solo 1 , Ngandong 1",1,he,he,1,"he, he-n",200,1172,1172,,1172
+"Solo 1 , Ngandong 1",1,he,he,1,"he, he-n",200,1200,1200,,1200
+"Solo 5, Ngandong V, Ngangdong 6",1,he,he,1,"he, he-n",200,1225,1225,,1225
+"Solo 5, Ngandong V, Ngangdong 6",1,he,he,1,"he, he-n",200,1250,1250,,1250
+"Solo 5, Ngandong V, Ngangdong 6",1,he,he,1,"he, he-n",200,1251,1251,,1251
+"Solo 5, Ngandong V, Ngangdong 6",1,he,he,1,"he, he-n",200,1255,1255,,1255
+"Solo 5, Ngandong V, Ngangdong 6",1,he,he,1,"he, he-n",200,1300,1300,,1300
+"Solo 5, Ngandong V, Ngangdong 6",1,he,he,1,"he, he-n",200,1316,1316,,1316
+"Solo 6, Ngandong VI, Ngandong 7",1,he,he,1,"he, he-n",200,1013,1013,,1013
+"Solo 6, Ngandong VI, Ngandong 7",1,he,he,1,"he, he-n",200,1035,1035,,1035
+"Solo 6, Ngandong VI, Ngandong 7",1,he,he,1,"he, he-n",200,1087,1087,,1087
+"Solo 6, Ngandong VI, Ngandong 7",1,he,he,1,"he, he-n",200,1150,1150,,1150
+"Solo 6, Ngandong VI, Ngandong 7",1,he,he,1,"he, he-n",200,1160,1160,,1160
+"Solo 6, Ngandong VI, Ngandong 7",1,he,he,1,"he, he-n",200,1175,1175,,1175
+"Solo 6, Ngandong VI, Ngandong 7",1,he,he,1,"he, he-n",200,1190,1190,,1190
+"Solo 9, Ngandong IX, Ngandong 10",1,he,he,1,"he, he-n",200,1135,1135,,1135
+"Solo 10, Ngandong X, Ngandong 11",1,he,he,1,"he, he-n",200,1055,1055,,1055
+"Solo 10, Ngandong X, Ngandong 11",1,he,he,1,"he, he-n",200,1231,1231,,1231
+"Solo 10, Ngandong X, Ngandong 12",1,he,he,1,"he, he-n",200,1060,1060,,1060
+"Solo 10, Ngandong X, Ngandong 12",1,he,he,1,"he, he-n",200,1090,1090,,1090
+"Poloyo 1 (PL-1), Sambungmacan 3 (SM 3)",1,he,he,0,he,200,900,900,,900
+Jinniushan,1,ahs,ahs,1,"ahs, hs",187,1260,1260,,1260
+Jinniushan,1,ahs,ahs,1,"ahs, hs",187,1300,1300,,1300
+Jinniushan,1,ahs,ahs,1,"ahs, hs",187,1390,1390,,1390
+Vértesszöllös 2,ahs,he,ahs,1,"he, he-n, n, ahs, hs",186,1115-1437,1115,1437,1276
+Vértesszöllös 2,ahs,he,ahs,1,"he, he-n, n, ahs, hs",186,1300,1300,,1300
+Vértesszöllös 2,ahs,he,ahs,1,"he, he-n, n, ahs, hs",186,1325,1325,,1325
+Vértesszöllös 2,ahs,he,ahs,1,"he, he-n, n, ahs, hs",186,1328,1328,,1328
+Vértesszöllös 2,ahs,he,ahs,1,"he, he-n, n, ahs, hs",186,1350,1350,,1350
+Vértesszöllös 2,ahs,he,ahs,1,"he, he-n, n, ahs, hs",186,1363,1363,,1363
+Vértesszöllös 2,ahs,he,ahs,1,"he, he-n, n, ahs, hs",186,1400,1400,,1400
+Biache,1,n,n,0,n,178,1200,1200,,1200
+Fontéchevade 2,1,n,n,1,"n, pre sapiens",160,1350,1350,,1350
+Fontéchevade 2,1,n,n,1,"n, pre sapiens",160,1450,1450,,1450
+Fontéchevade 2,1,n,n,1,"n, pre sapiens",160,1460,1460,,1460
+"Suard 1, La Chaise",1,n,n,0,n,151,1065,1065,,1065
+Florisbad 1,1,hs-n,hs-n,1,"hs-n, ahs",150,1280,1280,,1280
+KNM-ES-11693 (Eliye Springs),1,ahs,ahs,0,ahs,150,>1300,1300,,1300
+KNM-ES-11693 (Eliye Springs),1,ahs,ahs,0,ahs,150,1300-1450,1300,1450,1375
+Singa 1,0,n,0,1,"n, hs",150,1550,1550,,1550
+Krapina - D,1,n,n,0,n,130,1450,1450,,1450
+Krapina 3 (C),1,n,n,0,n,130,1200,1200,,1200
+Omo 1,1,hs,hs,0,hs,130,1400,1400,,1400
+"Omo 2, Omo-Kibish 2",hs,n-hs,hs,1,"n-hs, hs",130,1430,1430,,1430
+"Omo 2, Omo-Kibish 2",hs,n-hs,hs,1,"n-hs, hs",130,1435,1435,,1435
+LH 18 (Laetoli 18) Ngaloba,ahs,n,ahs,1,"n, ahs, hs",125,1200,1200,,1200
+LH 18 (Laetoli 18) Ngaloba,ahs,n,ahs,1,"n, ahs, hs",125,1367,1367,,1367
+Jebel Irhoud 1 (Djebel Irhoud I) (Jebel Ighoud 1),1,n,n,1,"n, n-hs",100,1305,1305,,1305
+Jebel Irhoud 1 (Djebel Irhoud I) (Jebel Ighoud 1),1,n,n,1,"n, n-hs",100,1420,1420,,1420
+Jebel Irhoud 1 (Djebel Irhoud I) (Jebel Ighoud 1),1,n,n,1,"n, n-hs",100,1480,1480,,1480
+Jebel Irhoud 1 (Djebel Irhoud I) (Jebel Ighoud 1),1,n,n,1,"n, n-hs",100,1500,1500,,1500
+Jebel Irhoud 2 (Djebel Irhoud II) (Jebel Ighoud 2),1,n,n,0,n,100,1305,1305,,1305
+Jebel Irhoud 2 (Djebel Irhoud II) (Jebel Ighoud 2),1,n,n,0,n,100,1450,1450,,1450
+Lijiang,1,hs,hs,0,hs,100,1300,1300,,1300
+Saccopastore 1,1,n,n,1,"n, ahs",100,<1200,1200,,1200
+Saccopastore 1,1,n,n,1,"n, ahs",100,1245,1245,,1245
+Saccopastore 1,1,n,n,1,"n, ahs",100,1258,1258,,1258
+Saccopastore 2,1,n,n,0,n,100,1280-1300,1280,1300,1290
+Saccopastore 2,1,n,n,0,n,100,1300,1300,,1300
+Tabun C1,1,n,n,0,n,100,1270,1270,,1270
+Tabun C1,1,n,n,0,n,100,1271,1271,,1271
+Qafzeh 11 (Jebel Qafzeh 11) (Kafzeh 11),1,hs,hs,0,hs,93,1280,1280,,1280
+Qafzeh 6 (Jebel Qafzeh 6) (Kafzeh 6),1,hs,hs,0,hs,93,1535,1535,,1535
+Qafzeh 6 (Jebel Qafzeh 6) (Kafzeh 6),1,hs,hs,0,hs,93,1554,1554,,1554
+Qafzeh 6 (Jebel Qafzeh 6) (Kafzeh 6),1,hs,hs,0,hs,93,1560,1560,,1560
+Qafzeh 6 (Jebel Qafzeh 6) (Kafzeh 6),1,hs,hs,0,hs,93,1568,1568,,1568
+Qafzeh 6 (Jebel Qafzeh 6) (Kafzeh 6),1,hs,hs,0,hs,93,1569,1569,,1569
+Qafzeh 6 (Jebel Qafzeh 6) (Kafzeh 6),1,hs,hs,0,hs,93,1570,1570,,1570
+Qafzeh 9 (Jebel Qafzeh 9) (Kafzeh 9) (subadult),1,hs,hs,0,hs,93,1531,1531,,1531
+Skhul 2,hs,n,hs,1,"n, n-hs, hs",90,1300,1300,,1300
+Skhul 4,hs,n,hs,1,"n, n-hs, hs",90,1554,1554,,1554
+Skhul 4,hs,n,hs,1,"n, n-hs, hs",90,1555,1555,,1555
+Skhul 5,hs,n,hs,1,"n, n-hs, hs",90,1450,1450,,1450
+Skhul 5,hs,n,hs,1,"n, n-hs, hs",90,1510,1510,,1510
+Skhul 5,hs,n,hs,1,"n, n-hs, hs",90,1518,1518,,1518
+Skhul 5,hs,n,hs,1,"n, n-hs, hs",90,1520,1520,,1520
+Skhul 6 (possible confusion with Skhul 9)*,hs,n,hs,1,"n , n-hs, hs",90,1585 *,1585,,1585
+Skhul 9,hs,n,hs,1,"n, n-hs, hs",90,1585,1585,,1585
+Skhul 9,hs,n,hs,1,"n, n-hs, hs",90,1587,1587,,1587
+Skhul 9,hs,n,hs,1,"n, n-hs, hs",90,1590,1590,,1590
+Border Cave 1 (Ingwavuma 1),1,hs,hs,0,hs,72,1507,1507,,1507
+Border Cave 1 (Ingwavuma 1),1,hs,hs,0,hs,72,1450,1450,,1450
+La Ferrassie 1,1,n,n,0,n,68,1640,1640,,1640
+La Ferrassie 1,1,n,n,0,n,68,1641,1641,,1641
+La Ferrassie 1,1,n,n,0,n,68,1681,1681,,1681
+La Ferrassie 1,1,n,n,0,n,68,1689,1689,,1689
+La Ferrassie 1,1,n,n,0,n,68,>1600,1600,,1600
+Liujiang (skull PA 89) (Liu Kwang) (Liu Kiang),1,hs,hs,0,hs,67,1480,1480,,1480
+Gibraltar 1 (Forbes’ Quarry),1,n,n,0,n,60,1075,1075,,1075
+Gibraltar 1 (Forbes’ Quarry),1,n,n,0,n,60,1080,1080,,1080
+Gibraltar 1 (Forbes’ Quarry),1,n,n,0,n,60,1200,1200,,1200
+Gibraltar 1 (Forbes’ Quarry),1,n,n,0,n,60,1260,1260,,1260
+Gibraltar 1 (Forbes’ Quarry),1,n,n,0,n,60,1270,1270,,1270
+Gibraltar 1 (Forbes’ Quarry),1,n,n,0,n,60,1296,1296,,1296
+Gibraltar 1 (Forbes’ Quarry),1,n,n,0,n,60,1300,1300,,1300
+Gibraltar 1 (Forbes’ Quarry),1,n,n,0,n,60,1333,1333,,1333
+Teshik-Tash (9 year old) (Teshik-Tash),1,n,n,0,n,60,1490,1490,,1490
+Teshik-Tash (9 year old) (Teshik-Tash),1,n,n,0,n,60,1500,1500,,1500
+Teshik-Tash (adult),1,n,n,0,n,60,1565,1565,,1565
+Teshik-Tash (adult),1,n,n,0,n,60,1578,1578,,1578
+Teshik-Tash (adult),1,n,n,0,n,60,1600,1600,,1600
+"Monte Circeo I (Guattari, Circeo 1)",1,n,n,0,n,55,1552,1552,,1552
+"Monte Circeo I (Guattari, Circeo 1)",1,n,n,0,n,55,1550,1550,,1550
+Amud 1,1,n,n,0,n,51,1740,1740,,1740
+Amud 1,1,n,n,0,n,51,1750,1750,,1750
+Neandertal 1,1,n,n,0,n,50,1033,1033,,1033
+Neandertal 1,1,n,n,0,n,50,1230,1230,,1230
+Neandertal 1,1,n,n,0,n,50,1234,1234,,1234
+Neandertal 1,1,n,n,0,n,50,1370,1370,,1370
+Neandertal 1,1,n,n,0,n,50,1408,1408,,1408
+Neandertal 1,1,n,n,0,n,50,1450,1450,,1450
+Neandertal 1,1,n,n,0,n,50,1452,1452,,1452
+Neandertal 1,1,n,n,0,n,50,1525,1525,,1525
+Ganovce 1,1,n,n,0,n,50,1320,1320,,1320
+La Chapelle-aux-Saints,1,n,n,0,n,50,1600,1600,,1600
+La Chapelle-aux-Saints,1,n,n,0,n,50,1610,1610,,1610
+La Chapelle-aux-Saints,1,n,n,0,n,50,1620,1620,,1620
+La Chapelle-aux-Saints,1,n,n,0,n,50,1625,1625,,1625
+La Chapelle-aux-Saints,1,n,n,0,n,50,1626,1626,,1626
+La Chapelle-aux-Saints,1,n,n,0,n,50,1550-1600,1550,1600,1575
+La Quina 18 (child),1,n,n,0,n,50,1100,1100,,1100
+La Quina 18 (child),1,n,n,0,n,50,1310,1310,,1310
+La Quina 5 (H5),1,n,n,0,n,50,1307,1307,,1307
+La Quina 5 (H5),1,n,n,0,n,50,1345,1345,,1345
+La Quina 5 (H5),1,n,n,0,n,50,1350,1350,,1350
+La Quina 5 (H5),1,n,n,0,n,50,1367,1367,,1367
+Shanidar 1,1,n,n,0,n,50,1600,1600,,1600
+Shanidar 1,1,n,n,0,n,50,1700,1700,,1700
+Shanidar 5,1,n,n,0,n,50,1550,1550,,1550
+Spy 1,1,n,n,0,n,50,1300,1300,,1300
+Spy 1 (or Spy 2 ?),1,n,n,0,n,50,1305,1305,,1305
+Spy 1,1,n,n,0,n,50,1500,1500,,1500
+Spy 1,1,n,n,0,n,50,1525,1525,,1525
+Spy 1,1,n,n,0,n,50,1562,1562,,1562
+Spy 1 (or Spy 2 ?),1,n,n,0,n,50,1553,1553,,1553
+Spy 2 (or Spy 1 ?),1,n,n,0,n,50,1305,1305,,1305
+Spy 2,1,n,n,0,n,50,1425,1425,,1425
+Spy 2,1,n,n,0,n,50,1504,1504,,1504
+Spy 2 (or Spy 1 ?),1,n,n,0,n,50,1553,1553,,1553
+Spy 2,1,n,n,0,n,50,1650,1650,,1650
+Subalyuk Cave (child 5-7),1,n,n,0,n,43,1000-1100,1000,1100,1050
+Galilee,1,n,n,0,n,40,1400,1400,,1400
+Le Moustier 1,1,n,n,0,n,40,1350,1350,,1350
+Le Moustier 1,1,n,n,0,n,40,1352,1352,,1352
+Le Moustier 1,1,n,n,0,n,40,1564,1564,,1564
+Le Moustier 1,1,n,n,0,n,40,1565,1565,,1565
+Le Moustier 1,1,n,n,0,n,40,1600,1600,,1600
+Eyasi,1,ahs,ahs,0,ahs,35,1220-1250,1220,1250,1235
+Mladec 1 (16-17 year old) (Lautsch),1,hs,hs,0,hs,35,1540,1540,,1540
+Mladec 1 (16-17 year old) (Lautsch),1,hs,hs,0,hs,35,1559,1559,,1559
+Mladec 1 (16-17 year old) (Lautsch),1,hs,hs,0,hs,35,1620,1620,,1620
+Mladec 2 (17-18 year old) (Lautsch),1,hs,hs,0,hs,35,1390,1390,,1390
+Mladec 5 (Lautsch),1,hs,hs,0,hs,35,1500,1500,,1500
+Mladec 5 (Lautsch),1,hs,hs,0,hs,35,1650,1650,,1650
+Nazlet Khater 1,1,hs,hs,0,hs,33,1420,1420,,1420
+Cro-Magnon 1,1,hs,hs,0,hs,30,1590,1590,,1590
+Cro-Magnon 1,1,hs,hs,0,hs,30,1593,1593,,1593
+Cro-Magnon 1,1,hs,hs,0,hs,30,1600,1600,,1600
+Cro-Magnon 1,1,hs,hs,0,hs,30,1636,1636,,1636
+Cro-Magnon 1,1,hs,hs,0,hs,30,1660,1660,,1660
+Cro-Magnon 2,1,hs,hs,0,hs,30,1402,1402,,1402
+Cro-Magnon 3,1,hs,hs,0,hs,30,1730,1730,,1730
+Grotte des Enfants 4 (Grimaldi),1,hs,hs,0,hs,28,1775,1775,,1775
+Grotte des Enfants 4 (Grimaldi),1,hs,hs,0,hs,28,1715,1715,,1715
+Grotte des Enfants 5 (Grimaldi),1,hs,hs,0,hs,28,1375,1375,,1375
+Grotte des Enfants 5 (Grimaldi),1,hs,hs,0,hs,28,1518,1518,,1518
+Grotte des Enfants 6 (Grimaldi),1,hs,hs,0,hs,28,1500,1500,,1500
+Grotte des Enfants 6 (Grimaldi),1,hs,hs,0,hs,28,1580,1580,,1580
+Paderbourne,1,hs,hs,0,hs,27,1531,1531,,1531
+"Zhoukoudian 101 (Up. Cave 1, Shandingdong)",1,hs,hs,0,hs,27,1500,1500,,1500
+"Zhoukoudian 102 (Up. Cave 2, Shandingdong)",1,hs,hs,0,hs,27,1380,1380,,1380
+"Zhoukoudian 103 (Up. Cave 3, Shandingdong)",1,hs,hs,0,hs,27,1290,1290,,1290
+"Zhoukoudian 103 (Up. Cave 3, Shandingdong)",1,hs,hs,0,hs,27,1300,1300,,1300
+Predmosti 10,1,hs,hs,0,hs,27,1452,1452,,1452
+Predmosti 3,1,hs,hs,0,hs,27,1580,1580,,1580
+Predmosti 3,1,hs,hs,0,hs,27,1608,1608,,1608
+Predmosti 4,1,hs,hs,0,hs,27,1250,1250,,1250
+Predmosti 4,1,hs,hs,0,hs,27,1500,1500,,1500
+Predmosti 4,1,hs,hs,0,hs,27,1518,1518,,1518
+Predmosti 9,1,hs,hs,0,hs,27,1555,1555,,1555
+Dolni Vestonice 3,1,hs,hs,0,hs,26,1293,1293,,1293
+Dolni Vestonice 3,1,hs,hs,0,hs,26,1322,1322,,1322
+Pavlov 1,1,hs,hs,0,hs,26,1522,1522,,1522
+Combe Capelle,1,hs,hs,0,hs,25,1440,1440,,1440
+Gibraltar 2 (adult),1,n,n,0,n,25,1650,1650,,1650
+Gibraltar 2 (child),1,n,n,0,n,25,1300,1300,,1300
+Gibraltar 2 (child),1,n,n,0,n,25,1400,1400,,1400
+Pataud 1,1,hs,hs,0,hs,21,1380,1380,,1380
+Boskop,1,hs,hs,0,hs,20,1630,1630,,1630
+Boskop,1,hs,hs,0,hs,20,1650,1650,,1650
+Boskop,1,hs,hs,0,hs,20,1700,1700,,1700
+Boskop,1,hs,hs,0,hs,20,1717,1717,,1717
+Boskop,1,hs,hs,0,hs,20,1832,1832,,1832
+Boskop,1,hs,hs,0,hs,20,1950,1950,,1950
+Boskop,1,hs,hs,0,hs,20,1630-1700,1630,1700,1665
+Barma Grande 2,1,hs,hs,0,hs,19,1748,1748,,1748
+Barma Grande 2,1,hs,hs,0,hs,19,1880,1880,,1880
+Arene Candide 1-IP,1,hs,hs,0,hs,19,1490,1490,,1490
+Minatogawa 1,1,hs,hs,0,hs,18,1390,1390,,1390
+Minatogawa 2,1,hs,hs,0,hs,18,1170,1170,,1170
+Minatogawa 4,1,hs,hs,0,hs,18,1090,1090,,1090
+Brno 1,1,hs,hs,0,hs,18,1600,1600,,1600
+Brno (female),1,hs,hs,0,hs,18,1250,1250,,1250
+Brno 2,1,hs,hs,0,hs,18,1543,1543,,1543
+Taza 1 (f),1,hs,hs,0,hs,16,1125,1125,,1125
+Cape Flats,1,hs,hs,0,hs,15,1230,1230,,1230
+"Tuinplass, (Springbok)",1,hs,hs,0,hs,15,1540,1540,,1540
+Wadjak 1,1,hs,hs,0,hs,15,1475,1475,,1475
+Wadjak 1,1,hs,hs,0,hs,15,1550,1550,,1550
+Wadjak 1,1,hs,hs,0,hs,15,1593,1593,,1593
+Wadjak 2,1,hs,hs,0,hs,15,1650,1650,,1650
+Saint Germain-la-Riviere 1,1,hs,hs,0,hs,15,1354,1354,,1354
+WLH 50 (Willandra Lakes hominid 50),1,hs,hs,0,hs,15,1540,1540,,1540
+Fish Hoek 1 (Skildergat cave),1,hs,hs,0,hs,14,1550,1550,,1550
+Fish Hoek 1 (Skildergat cave),1,hs,hs,0,hs,14,1600,1600,,1600
+Chancelade 1,1,hs,hs,0,hs,13,1530,1530,,1530
+Chancelade 1,1,hs,hs,0,hs,13,1650,1650,,1650
+Chancelade 1,1,hs,hs,0,hs,13,1700,1700,,1700
+Chancelade 1,1,hs,hs,0,hs,13,1710,1710,,1710
+Keilor,1,hs,hs,0,hs,13,1593,1593,,1593
+Keilor,1,hs,hs,0,hs,13,1464,1464,,1464
+Bruniquel 2,1,hs,hs,0,hs,12,1555,1555,,1555
+Cap Blanc 1,1,hs,hs,0,hs,12,1434,1434,,1434
+Oberkassel 1,1,hs,hs,0,hs,12,1500,1500,,1500
+Oberkassel 2,1,hs,hs,0,hs,12,1306,1306,,1306
+Oberkassel 2,1,hs,hs,0,hs,12,1370,1370,,1370
+Talgai 1,1,hs,hs,0,hs,12,1300,1300,,1300
+Talgai 1,1,hs,hs,0,hs,12,1370,1370,,1370
+San Teodoro 7 (ST7),1,hs,hs,0,hs,12,1500,1500,,1500
+San Teodoro 1,1,hs,hs,0,hs,11,1565,1565,,1565
+San Teodoro 2,1,hs,hs,0,hs,11,1569,1569,,1569
+San Teodoro 3,1,hs,hs,0,hs,11,1560,1560,,1560
+San Teodoro 5,1,hs,hs,0,hs,11,1484,1484,,1484
+Arene Candide 1,1,hs,hs,0,hs,11,1414,1414,,1414
+Arene Candide 2,1,hs,hs,0,hs,11,1424,1424,,1424
+Arene Candide 4,1,hs,hs,0,hs,11,1520,1520,,1520
+Arene Candide 5,1,hs,hs,0,hs,11,1661,1661,,1661
+Ofnet 21.1,1,hs,hs,0,hs,11,1500,1500,,1500
+Ofnet 24.1,1,hs,hs,0,hs,11,1420,1420,,1420
+Palli Aike 773,1,hs,hs,0,hs,11,1480,1480,,1480
+Veryier 1,1,hs,hs,0,hs,10,1430,1430,,1430
+Cohuna,1,hs,hs,0,hs,10,1260,1260,,1260
+Cohuna,1,hs,hs,0,hs,10,1450,1450,,1450
+Gamble’s Cave,1,hs,hs,0,hs,10,1500,1500,,1500
+Gamble’s Cave 4,1,hs,hs,0,hs,10,1470,1470,,1470
+Gamble’s Cave 5,1,hs,hs,0,hs,10,1530,1530,,1530
+Tepexpan,1,hs,hs,0,hs,10,1540,1540,,1540
+Tze-Yang,1,hs,hs,0,hs,10,1210,1210,,1210

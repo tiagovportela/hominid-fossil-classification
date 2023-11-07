@@ -1,0 +1,358 @@
+ID,Species,Group,GOL,BBH,XCB,NPH,BPL,ZYB
+TM 266-01-060-1,Sahelanthropus tchadensis,Basal Hominin,173,86,"92,8",75,"132,8","132,8"
+KNM-ER 17000,Paranthropus aethiopicus,Australopitecine,"148,5","93,1",100,99,"149,4",162
+AL 444-2,Australopithecus afarensis,Australopitecine,167,102,122,100,145,167
+Sts 5,Australopithecus africanus,Australopitecine,146,101,98,77,127,126
+Sts 71,Australopithecus africanus,Australopitecine,129,88,108,71,100,126
+KNM-ER 406,Paranthropus boisei,Australopitecine,163,103,112,88,135,179
+OH 5,Paranthropus boisei,Australopitecine,173,98,116,112,137,168
+SK 48,Paranthropus robustus,Australopitecine,"140,4",91,100,80,97,145
+DNH 7,Paranthropus robustus,Australopitecine,"140,5","88,8","89,3","71,2",98,"112,7"
+MRD-VP-1/1,Australopithecus anamensis,Australopitecine,"149,2","94,9","83,1","91,1",127.3*,130.3*
+StW 573,Australopithecus prometheus / A. africanus,Australopitecine,151,104,110,87,112*,130
+KNM-ER 1470,Homo rudolfensis / H. habilis s.l.,Extinct Homo,166,104,126,90,115,135
+KNM-ER 1813,Homo habilis,Extinct Homo,145,"94,8","102,8",66,"98,3","116,8"
+OH 24,Homo habilis,Extinct Homo,145,89,118,67,92,120
+D3444,Homo georgicus / H. habilis s.l.,Extinct Homo,163,107,122,63,"93,8","126,7"
+D 2700,Homo georgicus / H. habilis s.l.,Extinct Homo,155,100,117,63,100,116
+D 2282,Homo georgicus / H. habilis s.l.,Extinct Homo,163,92,116,81,110,130
+D4500,Homo georgicus / H. habilis s.l.,Extinct Homo,165,92,109,73,127,149
+KNM-ER 3733,Homo ergaster / H. erectus s.l.,Extinct Homo,182,108,135,83,120,138
+WT 15000,Homo ergaster / H. erectus s.l.,Extinct Homo,175,101,124,78,118,"121,6"
+Stw 53,Homo gautengensis / H. habilis s.l.,Extinct Homo,167,110,108,70,97,130
+Sangiran 17,Homo erectus,Extinct Homo,206,110,150,82,118,150
+Kabwe,Homo rhodesiensis / H. heidelbergensis,Extinct Homo,210,129,144,95,115,"144,5"
+SH Cranium 5,Homo heidelbergensis / H. neanderthalensis,Extinct Homo,185,125,"146,5",85,"115,3",144
+Steinheim,Homo heidelbergensis,Extinct Homo,185,110,"132,5","74,5",109,132
+Petralona,Homo heidelbergensis,Extinct Homo,208,127,152,90,119,157
+Shanidar I,Homo neanderthalensis,Extinct Homo,207,135,154,86,"117,1",140
+La Chapelle,Homo neanderthalensis,Extinct Homo,208,131,156,86,"124,8",153
+La Ferrasie I,Homo neanderthalensis,Extinct Homo,"207,5",135,158,88,124,"148,5"
+LB-1,Homo floresiensis,Extinct Homo,143,89,110,53,88,117
+LES-1,Homo naledi,Extinct Homo,143,"92,4",104,"68,1","90,7","112,5"
+HBSM2018-000018(A),Homo longi,Extinct Homo,"221,3","132,6","157,4","76,4","125,1","162,4"
+THK1063,Homo sapiens,AMH (juvenile/infant),166,137,133,55,87,110
+THK1082,Homo sapiens,AMH (juvenile/infant),164,128,133,56,82,114
+THK235,Homo sapiens,AMH (juvenile/infant),175,124,133,52,81,112
+THK395,Homo sapiens,AMH (juvenile/infant),169,123,130,60,86,111
+THK408,Homo sapiens,AMH (juvenile/infant),177,138,139,65,96,122
+THK502,Homo sapiens,AMH (juvenile/infant),164,119,130,47,78,97
+THK553,Homo sapiens,AMH (juvenile/infant),164,130,142,56,81,109
+THK589,Homo sapiens,AMH (juvenile/infant),162,124,133,51,80,105
+THK754,Homo sapiens,AMH (juvenile/infant),165,121,131,53,89,114
+THK 1,Homo sapiens,AMH,194,141,140,68,99,136
+THK 2,Homo sapiens,AMH,180,140,139,70,103,125
+THK 62,Homo sapiens,AMH,176,137,134,70,90,124
+THK 256,Homo sapiens,AMH,183,140,148,76,100,136
+THK 266,Homo sapiens,AMH,178,138,138,63,105,140
+THK 281,Homo sapiens,AMH,175,138,135,71,91,130
+THK 283,Homo sapiens,AMH,189,140,136,62,105,134
+THK 287,Homo sapiens,AMH,180,134,141,64,95,126
+THK 320,Homo sapiens,AMH,176,133,127,66,99,131
+THK 349,Homo sapiens,AMH,191,142,139,66,104,138
+THK 364,Homo sapiens,AMH,184,140,141,68,102,135
+THK 376,Homo sapiens,AMH,192,133,140,65,96,130
+THK 434,Homo sapiens,AMH,178,140,142,65,98,134
+THK 1058,Homo sapiens,AMH,179,134,142,66,100,137
+THK 1299,Homo sapiens,AMH,172,126,128,68,89,117
+THK 1742,Homo sapiens,AMH,183,143,152,67,102,134
+THK 2544,Homo sapiens,AMH,184,139,144,66,97,131
+THK 3278,Homo sapiens,AMH,175,130,131,62,104,132
+THK 3345,Homo sapiens,AMH,179,138,138,74,96,130
+THK 408,Homo sapiens,AMH,177,138,139,65,96,122
+THK 302,Homo sapiens,AMH,183,131,133,68,100,130
+THK 302,Homo sapiens,AMH,182,131,126,69,98,129
+THK 373,Homo sapiens,AMH,168,134,141,63,88,125
+THK 387,Homo sapiens,AMH,175,136,137,64,98,122
+THK 387,Homo sapiens,AMH,176,135,137,63,97,121
+THK 423,Homo sapiens,AMH,175,129,137,69,97,123
+THK 439,Homo sapiens,AMH,173,139,136,63,99,128
+THK 478,Homo sapiens,AMH,164,127,136,61,85,118
+THK 542,Homo sapiens,AMH,167,121,133,59,88,112
+THK 569,Homo sapiens,AMH,168,130,132,60,101,121
+THK 2319,Homo sapiens,AMH,175,130,129,69,100,131
+THK 3259,Homo sapiens,AMH,181,141,142,70,103,142
+THK 495,Homo sapiens,AMH,178,132,130,80,95,124
+THK 503,Homo sapiens,AMH,177,142,137,84,101,122
+THK 633,Homo sapiens,AMH,175,132,130,77,94,119
+THK 702,Homo sapiens,AMH,170,126,130,85,94,120
+THK 2480,Homo sapiens,AMH,169,124,135,80,95,120
+THK 2506,Homo sapiens,AMH,175,130,144,86,98,129
+THK 2564,Homo sapiens,AMH,164,133,127,77,91,119
+LT-146,Homo sapiens,AMH,176,124,132,70,90,121
+LT-10,Homo sapiens,AMH,185,140,135,"64,5",95,118
+LT-73,Homo sapiens,AMH,179,"123,5",130,66,"88,5",120
+LT-178,Homo sapiens,AMH,"176,5",129,126,58,93,117
+LT-160,Homo sapiens,AMH,174,123,127,59,84,117
+LT-94,Homo sapiens,AMH,183,135,137,76,102,119
+LT-48,Homo sapiens,AMH,179,123,126,67,94,"125,5"
+LT-82,Homo sapiens,AMH,"178,5",127,129,64,94,118
+LT-86,Homo sapiens,AMH,170,132,129,"58,1",87,118
+LT-104,Homo sapiens,AMH,170,127,128,"71,5",102,117
+LT-67,Homo sapiens,AMH,173,135,129,60,88,119
+LT-166,Homo sapiens,AMH,185,130,140,78,106,123
+LT-114,Homo sapiens,AMH,182,"131,5",128,63,94,127
+LT-105,Homo sapiens,AMH,176,122,132,"65,2",90,118
+LT-91,Homo sapiens,AMH,170,119,126,"64,9",90,116
+LT-9,Homo sapiens,AMH,179,132,139,"64,5",94,122
+LT-127,Homo sapiens,AMH,172,126,132,64,92,115
+LT-136,Homo sapiens,AMH,174,"122,5",131,"68,7","91,5",117
+LT-172,Homo sapiens,AMH,187,138,142,67,95,125
+LT-6,Homo sapiens,AMH,177,140,133,70,97,124
+LT-93,Homo sapiens,AMH,169,129,137,67,92,"123,5"
+LT-74,Homo sapiens,AMH,178,126,134,62,90,122
+LT-96,Homo sapiens,AMH,179,124,130,"68,4",94,115
+LT-134,Homo sapiens,AMH,180,"130,5",136,"69,2","91,5",123
+LT-72,Homo sapiens,AMH,174,131,130,59,83,120
+LT-21,Homo sapiens,AMH,177,135,132,"62,5",86,122
+LT-32,Homo sapiens,AMH,174,132,"137,5","63,5",87,121
+LT-60,Homo sapiens,AMH,"180,5",132,132,68,87,121
+LT-46,Homo sapiens,AMH,171,132,132,67,91,128
+LT-103,Homo sapiens,AMH,"177,5",133,"128,5","65,4",87,118
+LT-79,Homo sapiens,AMH,178,119,"131,5",60,92,119
+LT-83,Homo sapiens,AMH,169,119,130,60,89,117
+LT-110,Homo sapiens,AMH,170,127,127,"65,5",95,120
+LT-92,Homo sapiens,AMH,187,131,134,"68,8",98,130
+LT-159,Homo sapiens,AMH,184,"126,5",131,"71,1",94,125
+LT-141,Homo sapiens,AMH,186,129,139,"74,5",96,"135,5"
+LT-111,Homo sapiens,AMH,182,138,136,"64,7","95,5",121
+LT-158,Homo sapiens,AMH,179,140,129,66,102,133
+LT-1,Homo sapiens,AMH,179,132,131,"72,5",98,129
+LT-100,Homo sapiens,AMH,189,145,137,68,92,133
+LT-57,Homo sapiens,AMH,191,148,144,70,"100,5",130
+LT-71,Homo sapiens,AMH,190,145,142,"76,5",94,131
+LT-179,Homo sapiens,AMH,182,134,138,"78,5",102,132
+LT-84,Homo sapiens,AMH,189,133,137,69,96,127
+LT-115,Homo sapiens,AMH,185,132,135,"66,4",95,129
+LT-133,Homo sapiens,AMH,"187,5",128,144,"75,8",95,128
+LT-145,Homo sapiens,AMH,187,"130,5",136,"73,4",109,138
+LT-156,Homo sapiens,AMH,174,134,127,"73,5",99,123
+LT-80,Homo sapiens,AMH,181,134,139,66,90,130
+LT-88,Homo sapiens,AMH,"183,5",132,"131,5","72,4",107,129
+LT-152,Homo sapiens,AMH,183,134,128,65,97,"126,5"
+LT-25,Homo sapiens,AMH,183,128,136,72,97,128
+LT-26,Homo sapiens,AMH,181,133,130,"64,3","93,5",114
+LT-140,Homo sapiens,AMH,194,141,146,"70,5",100,136
+LT-144,Homo sapiens,AMH,187,138,141,"66,2",102,129
+LT-45,Homo sapiens,AMH,192,"141,5",141,71,98,137
+LT-30,Homo sapiens,AMH,188,147,138,"79,3",99,"132,5"
+LT-1bis,Homo sapiens,AMH,184,134,127,"65,5",87,124
+LT-161,Homo sapiens,AMH,183,134,138,"69,3","94,2","125,5"
+LT-118,Homo sapiens,AMH,194,137,144,"75,9",104,137
+LT-27*,Homo sapiens,AMH,167,133,130,65,104,123
+LT-125,Homo sapiens,AMH,190,135,134,"74,5",97,128
+LT-142,Homo sapiens,AMH,174,135,130,66,100,122
+LT-121,Homo sapiens,AMH,187,"137,5",136,"71,6",97,"127,5"
+Predmost IV,Homo sapiens,AMH (Pleistocene),"191,5","136,5","143,5","67,2","104,6",136
+Combe Capelle,Homo sapiens,AMH (Pleistocene),202,"138,5",134,"79,4","99,5",137
+Cro-Magnon I,Homo sapiens,AMH (Pleistocene),"202,5","132,5","149,5",70,"102,2","140,5"
+Barma Grande 2,Homo sapiens,AMH (Pleistocene),205,158,142,"72,3","107,1","143,5"
+Chancelade,Homo sapiens,AMH (Pleistocene),194,"148,5","137,5","77,2",105,"138,5"
+Obercassel 1,Homo sapiens,AMH (Pleistocene),195,"137,5","143,5",72,97,153
+Obercassel 2,Homo sapiens,AMH (Pleistocene),182,"134,5","129,5","66,7","86,5",124
+Abri Pataud,Homo sapiens,AMH (Pleistocene),183,130,138,66,101,132
+Cap-Blanc,Homo sapiens,AMH (Pleistocene),186,138,142,75,101,138
+Saint-Germain,Homo sapiens,AMH (Pleistocene),"185,5",125,143,69,"92,5",134
+Laugerie Basse N,Homo sapiens,AMH (Pleistocene),194,"148,5","137,5","77,2",105,"138,5"
+Abri Lafaye,Homo sapiens,AMH (Pleistocene),187,134,135,69,103,132
+Grimaldi I,Homo sapiens,AMH (Pleistocene),192,"135,5","133,5","62,3",100,130
+Grimaldi II,Homo sapiens,AMH (Pleistocene),191,"133,5","130,5","59,1","105,5","128,5"
+Mladec I,Homo sapiens,AMH (Pleistocene),"198,5",138,142,70,"104,2","132,5"
+San Teodoro I,Homo sapiens,AMH (Pleistocene),197,143,136,67,103,135
+San Teodoro II,Homo sapiens,AMH (Pleistocene),192,143,144,66,95,135
+San Teodoro III,Homo sapiens,AMH (Pleistocene),195,149,134,73,90,141
+BOU-VP-16/1,Homo sapiens,AMH (Pleistocene),"219,5","147,5",155,79,111,142
+Liang Toge,Homo sapiens,AMH,177,128,120,70,103,120
+Lin112,Homo sapiens,AMH,177,135,128,"63,7","87,8",120
+Lin50,Homo sapiens,AMH,"177,5",136,"144,5","61,3",85,"130,3"
+Lin54,Homo sapiens,AMH,186,130,145,"65,8",88,134
+Lin171,Homo sapiens,AMH,170,121,141,"54,5","91,3","128,2"
+Lin149,Homo sapiens,AMH,163,125,134,"66,1","93,7","130,2"
+Lin133,Homo sapiens,AMH,179,142,136,66,91,"131,3"
+Lin46,Homo sapiens,AMH,171,"129,5",133,58,"83,4","121,5"
+Lin146,Homo sapiens,AMH,"173,5",129,125,"65,2","95,5",124
+Lin74,Homo sapiens,AMH,166,126,124,"61,2","84,5",115
+Lin99,Homo sapiens,AMH,176,130,124,"57,7","85,6","115,4"
+Lin80,Homo sapiens,AMH,"168,5",123,133,"60,5","71,4","114,6"
+Lin71,Homo sapiens,AMH,179,141,150,"64,4","85,8","126,2"
+Lin45,Homo sapiens,AMH,177,"125,5",132,68,"85,5","118,7"
+And1,Homo sapiens,AMH,168,132,134,58,93,121
+And2,Homo sapiens,AMH,161,128,135,60,94,124
+And3,Homo sapiens,AMH,165,124,133,61,93,126
+And4,Homo sapiens,AMH,163,124,135,58,94,123
+And5,Homo sapiens,AMH,169,131,133,56,92,120
+And6,Homo sapiens,AMH,169,126,135,62,96,126
+And7,Homo sapiens,AMH,171,137,140,63,92,125
+And8,Homo sapiens,AMH,168,131,132,64,96,122
+And9,Homo sapiens,AMH,165,125,137,61,91,121
+And10,Homo sapiens,AMH,167,124,139,60,91,121
+And11,Homo sapiens,AMH,178,133,141,62,100,132
+And12,Homo sapiens,AMH,166,129,134,64,89,120
+And13,Homo sapiens,AMH,162,127,136,57,90,122
+And14,Homo sapiens,AMH,160,127,135,62,89,125
+And15,Homo sapiens,AMH,151,118,125,57,85,118
+And16,Homo sapiens,AMH,159,131,133,52,89,123
+And17,Homo sapiens,AMH,161,122,131,54,90,119
+And18,Homo sapiens,AMH,159,122,125,56,93,112
+And19,Homo sapiens,AMH,164,123,133,63,96,119
+And20,Homo sapiens,AMH,159,127,134,52,89,114
+And21,Homo sapiens,AMH,159,118,136,59,95,124
+And22,Homo sapiens,AMH,158,125,130,57,91,114
+And23,Homo sapiens,AMH,156,123,131,56,93,117
+And24,Homo sapiens,AMH,158,125,134,55,87,116
+And25,Homo sapiens,AMH,155,119,130,57,91,119
+And26,Homo sapiens,AMH,154,119,118,54,86,117
+And27,Homo sapiens,AMH,167,130,132,61,89,119
+And28,Homo sapiens,AMH,162,126,127,57,88,118
+And29,Homo sapiens,AMH,156,122,130,55,89,119
+And30,Homo sapiens,AMH,156,117,129,56,91,106
+And31,Homo sapiens,AMH,159,123,132,58,91,126
+And32,Homo sapiens,AMH,174,135,146,59,90,122
+And33,Homo sapiens,AMH,161,126,129,59,95,125
+And34,Homo sapiens,AMH,164,119,137,55,89,118
+And35,Homo sapiens,AMH,171,136,128,61,94,118
+And36,Homo sapiens,AMH,164,131,132,60,92,127
+And37,Homo sapiens,AMH,170,132,137,59,92,116
+And38,Homo sapiens,AMH,168,132,134,58,93,121
+PAL10,Gorilla gorilla,G. gorilla (juvenile/infant),158,"102,5",102,"83,7",152,137
+PAL6,Gorilla gorilla,G. gorilla (juvenile/infant),"153,5",98,98,"107,3","153,7","138,4"
+PAL236,Gorilla gorilla,G. gorilla (juvenile/infant),150,"97,5","101,5","101,8",160,"135,9"
+PAL249,Gorilla gorilla,G. gorilla (juvenile/infant),"152,5",92,104,"99,1",155,"132,1"
+USNM 599169,Gorilla gorilla,G. gorilla (juvenile/infant),"130,6",90,"101,2","67,3","94,7","96,3"
+14,Gorilla gorilla,G. gorilla,"157,8","99,8",106,"106,7",164,"148,5"
+1691,Gorilla gorilla,G. gorilla,"163,6","98,5",103,"115,2","162,4","141,2"
+1765,Gorilla gorilla,G. gorilla,"154,8","100,2",107,"96,2","152,1","140,4"
+6592,Gorilla gorilla,G. gorilla,"164,3",98,105,"112,7",175,"140,4"
+6593,Gorilla gorilla,G. gorilla,"163,1","100,8","98,8",98,164,"140,2"
+6594,Gorilla gorilla,G. gorilla,"152,8","93,5",103,"99,3","143,5","135,2"
+6595,Gorilla gorilla,G. gorilla,"152,7",94,"97,5","115,5","169,5","150,4"
+6596,Gorilla gorilla,G. gorilla,"148,7",101,"102,5","100,6","148,2","141,1"
+6676,Gorilla gorilla,G. gorilla,"163,3","94,2",99,"106,3","157,8","147,7"
+6600,Gorilla gorilla,G. gorilla,"148,7",93,"103,2","100,4",155,"143,3"
+6601,Gorilla gorilla,G. gorilla,"151,9","92,2","103,5","107,8",159,"149,1"
+6699,Gorilla gorilla,G. gorilla,"157,6","101,2","99,5","115,7","163,2","150,8"
+6840,Gorilla gorilla,G. gorilla,152,"100,2",98,"96,6",156,"136,2"
+7118,Gorilla gorilla,G. gorilla,"154,7","99,5","102,5","109,6","165,8","147,4"
+241,Gorilla gorilla,G. gorilla,"193,7","105,2",96,"112,6",183,"179,4"
+917,Gorilla gorilla,G. gorilla,"174,7",100,104,"118,7","180,5",163
+6603,Gorilla gorilla,G. gorilla,"214,2","108,5",102,"140,6",198,"181,8"
+6602,Gorilla gorilla,G. gorilla,"214,1","102,2","99,5","122,5",200,"173,1"
+1648,Gorilla gorilla,G. gorilla,"193,8",100,"100,5","122,5",199,185
+252,Gorilla gorilla,G. gorilla,185,106,"102,5","110,6","195,8","170,2"
+240,Gorilla gorilla,G. gorilla,"217,8","104,5","104,5","122,6","194,8","179,5"
+1444,Gorilla gorilla,G. gorilla,"191,7",98,114,"141,9",205,"178,2"
+250,Gorilla gorilla,G. gorilla,182,"100,5",101,"122,7","202,8","177,3"
+760,Gorilla gorilla,G. gorilla,"172,4",104,"107,5","121,5","206,2",176
+238,Gorilla gorilla,G. gorilla,"211,4",106,"104,5","124,4","197,1","175,1"
+8,Gorilla gorilla,G. gorilla,"198,8","106,5",95,"123,1","208,6","171,3"
+11,Gorilla gorilla,G. gorilla,"198,7","100,5",101,"115,4","199,5","178,1"
+6504,Gorilla gorilla,G. gorilla,"186,2",106,"106,8","110,9","202,1","176,9"
+6599,Gorilla gorilla,G. gorilla,"173,9","104,5","104,5","126,8",177,"164,6"
+29045,Pan paniscus,P. paniscus,128,"85,5",100,"72,1","104,5","112,8"
+29042,Pan paniscus,P. paniscus,126,87,"102,5","73,6","102,6","115,2"
+15295,Pan paniscus,P. paniscus,"124,8","83,5","92,5",80,114,"120,5"
+27698,Pan paniscus,P. paniscus,"118,2","84,8","89,5","79,4",110,"105,5"
+15293,Pan paniscus,P. paniscus,122,89,"97,5",76,"117,6","118,7"
+29035,Pan paniscus,P. paniscus,"124,7",88,98,"82,7","108,8","115,9"
+15296,Pan paniscus,P. paniscus,"121,2","88,8",98,"71,2","107,2","109,6"
+84-036M-04,Pan paniscus,P. paniscus,"123,3","87,4","96,8","77,9","101,6","105,6"
+29060,Pan paniscus,P. paniscus,"128,9",82,"98,6","78,5","112,5","108,7"
+29040,Pan paniscus,P. paniscus,129,88,"102,3","74,8","113,5",113
+13201,Pan paniscus,P. paniscus,"124,3",86,"100,5","65,9","102,2",109
+84-036M-02,Pan paniscus,P. paniscus,"128,2","88,4","100,5",75,115,"126,7"
+13202,Pan paniscus,P. paniscus,125,87,"91,2","72,5","111,3","115,2"
+29052,Pan paniscus,P. paniscus,"119,9","82,5",92,"76,7","107,1","116,3"
+15294,Pan paniscus,P. paniscus,"124,5",85,"89,5","69,2","113,1","112,4"
+29063,Pan paniscus,P. paniscus,"122,4","87,3","98,5","78,4","111,3","127,6"
+27699,Pan paniscus,P. paniscus,"125,3",91,96,"74,8","107,1","118,1"
+23509,Pan paniscus,P. paniscus,"118,3","83,1","90,3","77,9",105,"103,7"
+29047,Pan paniscus,P. paniscus,"128,5",88,98,"72,1","109,2","113,2"
+29036,Pan paniscus,P. paniscus,"126,3","82,5",97,"77,2",98,"110,3"
+AS1761,Pan troglodytes,P. troglodytes (juvenile/infant),"118,5",84,96,"75,8","111,5","102,9"
+AS1188,Pan troglodytes,P. troglodytes (juvenile/infant),"123,6","87,6","97,2","59,3",105,"108,3"
+AM10167,Pan troglodytes,P. troglodytes (juvenile/infant),"132,2","92,5","104,5","65,5",109,"100,5"
+AM5686,Pan troglodytes,P. troglodytes (juvenile/infant),136,95,104,"76,7",121,"127,5"
+AM5687,Pan troglodytes,P. troglodytes (juvenile/infant),"131,9",89,96,"71,3",126,116
+USNM 220068,Pan troglodytes,P. troglodytes (juvenile/infant),116,"81,9","93,4",49,"78,3","86,4"
+USNM 220067,Pan troglodytes,P. troglodytes (juvenile/infant),"118,2","85,1","95,9","62,8","88,7","89,6"
+USNM 174709,Pan troglodytes,P. troglodytes (juvenile/infant),"112,2",81,"90,8","65,4","76,1","92,4"
+USNM 174708,Pan troglodytes,P. troglodytes (juvenile/infant),"121,7","81,2","96,5","70,3",102,"98,4"
+DUNUC 2404,Pan troglodytes,P. troglodytes (juvenile/infant),"105,5","77,3","87,2","52,1","80,4","79,8"
+22925,Pan troglodytes,P. troglodytes,"139,5","85,8","97,9","84,3","141,7","126,7"
+2298,Pan troglodytes,P. troglodytes,"136,4","90,6",102,"90,2","137,3","133,4"
+27697,Pan troglodytes,P. troglodytes,"141,3","90,4","100,2","84,2","137,5","131,7"
+2488,Pan troglodytes,P. troglodytes,"135,4","88,1","103,2","90,4","139,5","129,8"
+7004/7003,Pan troglodytes,P. troglodytes,"130,1","94,8","102,7","82,5","140,3","125,2"
+25534,Pan troglodytes,P. troglodytes,"140,2","91,1","104,6","90,1","138,9","137,2"
+17664,Pan troglodytes,P. troglodytes,"138,4","85,9","98,2","81,9","144,2","127,7"
+286,Pan troglodytes,P. troglodytes,"143,5","90,8","107,2","96,8",144,"138,4"
+11362,Pan troglodytes,P. troglodytes,"131,2","91,3",105,"85,4","124,7","120,7"
+29078,Pan troglodytes,P. troglodytes,"125,4","83,2","100,3","81,4","124,5","122,4"
+1048,Pan troglodytes,P. troglodytes,134,90,101,"87,2",144,131
+1554,Pan troglodytes,P. troglodytes,"132,5","91,9",100,"95,9","143,2","135,7"
+730,Pan troglodytes,P. troglodytes,"133,5","91,6","100,8","76,7","129,5","134,3"
+15350,Pan troglodytes,P. troglodytes,"140,6","88,6","103,9","83,6","133,6","135,7"
+11363,Pan troglodytes,P. troglodytes,"137,2","90,5","102,5","90,3","133,8","134,5"
+7426,Pan troglodytes,P. troglodytes,"136,8","91,9","98,3","74,8","144,2","125,7"
+9931,Pan troglodytes,P. troglodytes,"133,4","84,9",96,"77,4",139,116
+4188,Pan troglodytes,P. troglodytes,"134,4","90,3","100,9",90,"131,5","128,6"
+5891,Pan troglodytes,P. troglodytes,138,"88,5","101,2","82,8","133,9","130,1"
+5892,Pan troglodytes,P. troglodytes,"124,1","83,7","98,4","85,3",134,"116,5"
+5717,Pan troglodytes,P. troglodytes,"130,3","89,9","95,5","73,6",123,"121,9"
+5720,Pan troglodytes,P. troglodytes,"136,8","85,2","103,5","90,3",121,"121,4"
+6607,Pan troglodytes,P. troglodytes,"130,6","85,9","90,2","83,9","137,5","115,2"
+6608,Pan troglodytes,P. troglodytes,"126,7","88,5","95,5","82,1","133,5","113,7"
+6871,Pan troglodytes,P. troglodytes,"132,9","82,9","94,9","81,8",129,"127,5"
+6873,Pan troglodytes,P. troglodytes,"134,5","90,5",101,"92,7",142,"122,4"
+7078,Pan troglodytes,P. troglodytes,"126,2","90,3",100,"89,8",141,"122,4"
+7127,Pan troglodytes,P. troglodytes,"130,2","89,3","87,5","84,1","133,5","114,9"
+7688,Pan troglodytes,P. troglodytes,"130,7","90,5",97,"93,7",137,118
+7691,Pan troglodytes,P. troglodytes,"135,5",85,96,"80,9",136,"123,5"
+5722,Pan troglodytes,P. troglodytes,"138,6","87,6","100,5","93,3","138,7","132,6"
+6605,Pan troglodytes,P. troglodytes,"136,4","87,8",100,"72,2",138,"133,4"
+6606,Pan troglodytes,P. troglodytes,"138,2","92,9","95,5","90,7","146,5","133,1"
+5719,Pan troglodytes,P. troglodytes,"130,6","85,5","96,8","88,7",136,"129,5"
+5288,Pan troglodytes,P. troglodytes,"136,7","85,2",101,87,"133,8","133,2"
+5721,Pan troglodytes,P. troglodytes,"131,1","83,9",101,"92,6",134,"140,5"
+1223,Pan troglodytes,P. troglodytes,"136,8","88,5","94,5","83,3",125,"129,7"
+251,Pan troglodytes,P. troglodytes,"134,6","89,1","102,2","92,4","129,5","134,5"
+524,Pan troglodytes,P. troglodytes,"124,3","84,3","96,5","88,9",132,"125,7"
+1443,Pan troglodytes,P. troglodytes,130,"82,2","92,5","83,5","139,5",132
+6839,Pan troglodytes,P. troglodytes,"126,9","89,1",95,"88,8",137,"133,2"
+7008,Pan troglodytes,P. troglodytes,130,"88,8","100,8","96,7","133,8","122,7"
+312,Pan troglodytes,P. troglodytes,"136,6",87,100,"82,4","136,5","126,6"
+11780,Pan troglodytes,P. troglodytes,"126,4","82,3","93,5","83,5","125,8","123,8"
+11786,Pan troglodytes,P. troglodytes,120,"88,5","92,5",85,"136,2",118
+6253,Pan troglodytes,P. troglodytes,"127,1","84,1","90,5","78,9","128,2","124,8"
+6254,Pan troglodytes,P. troglodytes,"133,4","87,7",102,"88,6",137,"127,1"
+6255,Pan troglodytes,P. troglodytes,"133,7","82,6","97,5","85,3","138,1","124,1"
+6256,Pan troglodytes,P. troglodytes,132,"95,8","101,5","78,4","133,4","123,8"
+6533,Pan troglodytes,P. troglodytes,"130,4","87,5","98,8","75,3","130,2","123,2"
+7989,Pan troglodytes,P. troglodytes,"132,8","90,4",93,"80,4","130,6","119,9"
+6252,Pan troglodytes,P. troglodytes,"143,7","97,9","99,8","80,9","138,9","128,3"
+6324,Pan troglodytes,P. troglodytes,"134,5","83,8","99,6","81,4",141,"131,2"
+7993,Pan troglodytes,P. troglodytes,"132,8","86,3","96,5",92,"142,4","129,4"
+USNM 396920,Pongo pygmaeus,P. pygmaeus (juvenile/infant),"113,3","86,9","94,8","46,6","82,3","76,8"
+USNM 292562,Pongo pygmaeus,P. pygmaeus (juvenile/infant),101,"84,8","86,7","45,6",76,"75,4"
+USNM 283737,Pongo pygmaeus,P. pygmaeus (juvenile/infant),"106,2","82,4","84,7","63,1","91,8","87,3"
+USNM 197665,Pongo pygmaeus,P. pygmaeus (juvenile/infant),"118,2","87,7","105,2","60,9","95,1","94,8"
+USNM 153824,Pongo pygmaeus,P. pygmaeus (juvenile/infant),"117,7",94,"95,8","84,1","133,2","122,3"
+USNM 153811,Pongo pygmaeus,P. pygmaeus (juvenile/infant),"119,5","91,5",99,"67,2","126,8","119,3"
+USNM 145307,Pongo pygmaeus,P. pygmaeus (juvenile/infant),"123,8","87,2","101,7",92,"147,5","131,8"
+USNM 143599,Pongo pygmaeus,P. pygmaeus (juvenile/infant),"110,3","90,9","90,8","65,5","98,1","97,1"
+USNM 143595,Pongo pygmaeus,P. pygmaeus (juvenile/infant),112,"82,3","90,1","67,1","101,6","96,2"
+USNM 142171,Pongo pygmaeus,P. pygmaeus (juvenile/infant),"111,4","86,9","93,1","62,8","99,9","94,8"
+1989,Pongo pygmaeus,P. pygmaeus,114,89,"91,8","78,7",132,"128,9"
+1990,Pongo pygmaeus,P. pygmaeus,"115,2",95,"84,5","75,7","123,5","119,7"
+1988,Pongo pygmaeus,P. pygmaeus,"118,5","90,2","90,5","100,2",142,"136,5"
+1467,Pongo pygmaeus,P. pygmaeus,"115,2","95,1",88,"79,3","134,5","122,2"
+1565,Pongo pygmaeus,P. pygmaeus,113,"89,9",90,"89,1",146,"127,3"
+1564,Pongo pygmaeus,P. pygmaeus,"110,3","90,5",87,"82,5",137,"118,2"
+1565,Pongo pygmaeus,P. pygmaeus,"113,9","89,9","88,2","88,8",144,"127,1"
+101,Pongo pygmaeus,P. pygmaeus,"130,7",106,"96,8","113,9",173,"164,6"
+1561,Pongo pygmaeus,P. pygmaeus,"127,4","91,8","92,5","112,1","170,5","157,1"
+1986,Pongo pygmaeus,P. pygmaeus,"118,7",102,"99,5","107,5","180,3","161,2"
+7398,Pongo pygmaeus,P. pygmaeus,"127,5",98,94,"105,9","175,5","164,2"
+1159,Pongo pygmaeus,P. pygmaeus,"139,5",92,"93,5","131,4",190,"173,2"
+1562,Pongo pygmaeus,P. pygmaeus,"132,5",95,"100,5","93,9",166,"162,9"
+1563,Pongo pygmaeus,P. pygmaeus,"127,8","104,2",98,"101,8","156,8","154,4"
