@@ -1,0 +1,250 @@
+ID,Taxon used,Taxon,AgeCC,minCC,maxCC,meanCC,Taxon2,Specie1,Specie2
+AL 288-1 (Lucy),af,af,3200,395.0,,395.0,af,Australopithecus afarensis,A. afarensis
+AL162-28,af,af,3200,383.3333333333333,400.0,387.5,af,Australopithecus afarensis,A. afarensis
+AL333-105 (5 year old),af,af,3200,315.0,320.0,317.5,af,Australopithecus afarensis,A. afarensis
+AL333-105 (adult),af,af,3200,365.0,,365.0,af,Australopithecus afarensis,A. afarensis
+AL333-45,af,af,3200,490.0,500.0,492.5,af,Australopithecus afarensis,A. afarensis
+AL444-2,af,af,2950,500.0,,500.0,af,Australopithecus afarensis,A. afarensis
+Amud 1,n,n,51,1745.0,,1745.0,n,Neandertal,Neandertal
+Arago 21 (XXI & XLVII),ahs,ahs. hs. hhei,400,1122.0,1200.0,1138.6666666666667,ahs. hs. hhei,Archaic Homo sapiens,Archaic Homo sapiens
+Arene Candide 1,hs,hs,11,1414.0,,1414.0,hs,Homo sapiens,Homo sapiens
+Arene Candide 1-IP,hs,hs,19,1490.0,,1490.0,hs,Homo sapiens,Homo sapiens
+Arene Candide 2,hs,hs,11,1424.0,,1424.0,hs,Homo sapiens,Homo sapiens
+Arene Candide 4,hs,hs,11,1520.0,,1520.0,hs,Homo sapiens,Homo sapiens
+Arene Candide 5,hs,hs,11,1661.0,,1661.0,hs,Homo sapiens,Homo sapiens
+Atapuerca 4 (AT 600),hhei,ahs. hhei,300,1390.0,,1390.0,ahs. hhei,Homo heidelbergensis,H. heidelbergensis
+Atapuerca 5 (AT 700),hhei,ahs. hhei,300,1125.0,,1125.0,ahs. hhei,Homo heidelbergensis,H. heidelbergensis
+Atapuerca 6 (11-14 year old),hhei,ahs. hhei,300,1153.3333333333333,,1153.3333333333333,ahs. hhei,Homo heidelbergensis,H. heidelbergensis
+BOU-VP-12/130,ag,ag,2500,450.0,,450.0,ag,Australopithecus garhi,A. garhi
+Barma Grande 2,hs,hs,19,1814.0,,1814.0,hs,Homo sapiens,Homo sapiens
+Biache,n,n,178,1200.0,,1200.0,n,Neandertal,Neandertal
+Bodo,ahs,ahs. hhei,600,1275.0,,1275.0,ahs. hhei,Archaic Homo sapiens,Archaic Homo sapiens
+Border Cave 1 (Ingwavuma 1),hs,hs,72,1478.5,,1478.5,hs,Homo sapiens,Homo sapiens
+Boskop,hs,hs,20,1729.857142857143,1700.0,1734.857142857143,hs,Homo sapiens,Homo sapiens
+Brno (female),hs,hs,18,1250.0,,1250.0,hs,Homo sapiens,Homo sapiens
+Brno 1,hs,hs,18,1600.0,,1600.0,hs,Homo sapiens,Homo sapiens
+Brno 2,hs,hs,18,1543.0,,1543.0,hs,Homo sapiens,Homo sapiens
+Broken Hill 1 (Kabwe. Rhodesian),ahs,he. n-hs. ahs. hs. hhei,350,1310.0,,1310.0,he. n-hs. ahs. hs. hhei,Archaic Homo sapiens,Archaic Homo sapiens
+Bruniquel 2,hs,hs,12,1555.0,,1555.0,hs,Homo sapiens,Homo sapiens
+Cap Blanc 1,hs,hs,12,1434.0,,1434.0,hs,Homo sapiens,Homo sapiens
+Cape Flats,hs,hs,15,1230.0,,1230.0,hs,Homo sapiens,Homo sapiens
+Ceprano,ahs,late he. ahs,700,1185.0,,1185.0,late he. ahs,Archaic Homo sapiens,Archaic Homo sapiens
+Chancelade 1,hs,hs,13,1647.5,,1647.5,hs,Homo sapiens,Homo sapiens
+Chesowanja 1 (Baringo),ar,ar,1550,540.0,,540.0,ar,Australopithecus robustus,A. robustus
+Cohuna,hs,hs,10,1355.0,,1355.0,hs,Homo sapiens,Homo sapiens
+Combe Capelle,hs,hs,25,1440.0,,1440.0,hs,Homo sapiens,Homo sapiens
+Cro-Magnon 1,hs,hs,30,1615.8,,1615.8,hs,Homo sapiens,Homo sapiens
+Cro-Magnon 2,hs,hs,30,1402.0,,1402.0,hs,Homo sapiens,Homo sapiens
+Cro-Magnon 3,hs,hs,30,1730.0,,1730.0,hs,Homo sapiens,Homo sapiens
+Dali 1 (Ta-li),ahs,he. he-n. ahs. hs,205,1160.0,,1160.0,he. he-n. ahs. hs,Archaic Homo sapiens,Archaic Homo sapiens
+Dmanisi A,h,h,1800,775.0,780.0,777.5,h,Homo,Homo
+Dmanisi B,h,h,1800,650.0,,650.0,h,Homo,Homo
+Dolni Vestonice 3,hs,hs,26,1307.5,,1307.5,hs,Homo sapiens,Homo sapiens
+ER1470,hh,aa-hh. h. hh. hrud,1890,776.0,,776.0,aa-hh. h. hh. hrud,Homo habilis,Homo habilis
+ER1590 (juv. 8 year old),aa,aa-hh. hh,1850,782.5,,782.5,aa-hh. hh,Australopithecus africanus,A. africanus
+ER1805,hh,a. aa-hh. hh,1850,591.0,700.0,616.0,a. aa-hh. hh,Homo habilis,Homo habilis
+ER1813,hh,aa-hh. habiline. hh,1890,506.3333333333333,,506.3333333333333,aa-hh. habiline. hh,Homo habilis,Homo habilis
+ER23000,ab,ab,1900,491.0,,491.0,ab,Australopithecus boisei,A. boisei
+ER3732,hh,habiline. hh,1890,622.5,,622.5,habiline. hh,Homo habilis,Homo habilis
+ER3733 (Koobi Fora),he,he. early hs. herg,1780,820.4,850.0,825.4,he. early hs. herg,Homo erectus,Homo erectus
+ER3883,he,he. early hs,1570,817.3333333333334,850.0,825.6666666666666,he. early hs,Homo erectus,Homo erectus
+ER406 (FS-158) male (Koobi Fora) KNM-ER 406,ab,ab-ar. ab,1640,518.3333333333334,,518.3333333333334,ab-ar. ab,Australopithecus boisei,A. boisei
+ER407 (FS-210) (Koobi Fora) KNM-ER 407,ab,ab,1640,508.0,,508.0,ab,Australopithecus boisei,A. boisei
+ER732 (FS-160) (Koobi Fora) KNM-ER 732,ab,ab-ar. ab,1640,503.0,,503.0,ab-ar. ab,Australopithecus boisei,A. boisei
+ER736 (possible confusion with ER732),ar,ar,1640,504.0,,504.0,ar,Australopithecus robustus,A. robustus
+Ehringsdorf 9,n,n,203,1450.0,,1450.0,n,Neandertal,Neandertal
+Eyasi,ahs,ahs,35,1220.0,1250.0,1235.0,ahs,Archaic Homo sapiens,Archaic Homo sapiens
+Fish Hoek 1 (Skildergat cave),hs,hs,14,1575.0,,1575.0,hs,Homo sapiens,Homo sapiens
+Florisbad 1,hs,hs-n. ahs,150,1280.0,,1280.0,hs-n. ahs,Homo sapiens,Homo sapiens
+Fontéchevade 2,n,n. pre sapiens,160,1420.0,,1420.0,n. pre sapiens,Neandertal,Neandertal
+Galilee,n,n,40,1400.0,,1400.0,n,Neandertal,Neandertal
+Gamble’s Cave,hs,hs,10,1500.0,,1500.0,hs,Homo sapiens,Homo sapiens
+Gamble’s Cave 4,hs,hs,10,1470.0,,1470.0,hs,Homo sapiens,Homo sapiens
+Gamble’s Cave 5,hs,hs,10,1530.0,,1530.0,hs,Homo sapiens,Homo sapiens
+Ganovce 1,n,n,50,1320.0,,1320.0,n,Neandertal,Neandertal
+Gibraltar 1 (Forbes’ Quarry),n,n,60,1226.75,,1226.75,n,Neandertal,Neandertal
+Gibraltar 2 (adult),n,n,25,1650.0,,1650.0,n,Neandertal,Neandertal
+Gibraltar 2 (child),n,n,25,1350.0,,1350.0,n,Neandertal,Neandertal
+Gongwangling 1 (Lantian I. Lantian 2),he,he,1150,777.6666666666666,783.0,779.0,he,Homo erectus,Homo erectus
+Grotte des Enfants 4 (Grimaldi),hs,hs,28,1745.0,,1745.0,hs,Homo sapiens,Homo sapiens
+Grotte des Enfants 5 (Grimaldi),hs,hs,28,1446.5,,1446.5,hs,Homo sapiens,Homo sapiens
+Grotte des Enfants 6 (Grimaldi),hs,hs,28,1540.0,,1540.0,hs,Homo sapiens,Homo sapiens
+Hexian (PA 830),he,he,250,1000.0,,1000.0,he,Homo erectus,Homo erectus
+Hexian I (PA 830),he,he,250,1025.0,,1025.0,he,Homo erectus,Homo erectus
+Jebel Irhoud 1 (Djebel Irhoud I) (Jebel Ighoud 1),n,n. n-hs,100,1426.25,,1426.25,n. n-hs,Neandertal,Neandertal
+Jebel Irhoud 2 (Djebel Irhoud II) (Jebel Ighoud 2),n,n,100,1377.5,,1377.5,n,Neandertal,Neandertal
+Jinniushan,ahs,ahs. hs,187,1316.6666666666667,,1316.6666666666667,ahs. hs,Archaic Homo sapiens,Archaic Homo sapiens
+KGA10-525,ab,ab,1420,545.0,,545.0,ab,Australopithecus boisei,A. boisei
+KNM- ER13750,ab,ab,2000,481.0,480.0,484.5,ab,Australopithecus boisei,A. boisei
+KNM-ER3884,ahs,ahs,270,1400.0,,1400.0,ahs,Archaic Homo sapiens,Archaic Homo sapiens
+KNM-ES-11693 (Eliye Springs),ahs,ahs,150,1300.0,1450.0,1337.5,ahs,Archaic Homo sapiens,Archaic Homo sapiens
+KNM-WT 15000 (adult) (WT 15K)(Nariokotome),he,he. herg,1600,904.5,,904.5,he. herg,Homo erectus,Homo erectus
+KNM-WT15000 (juv) (WT 15K)(Nariokotome),he,he. herg,1600,880.0,,880.0,he. herg,Homo erectus,Homo erectus
+"KNM-WT17000
+(black skull)",ab,ab. aae,2500,410.0,,410.0,ab. aae,Australopithecus boisei,A. boisei
+KNM-WT17400,ab,ab,1800,445.0,400.0,447.5,ab,Australopithecus boisei,A. boisei
+Keilor,hs,hs,13,1528.5,,1528.5,hs,Homo sapiens,Homo sapiens
+Krapina - D,n,n,130,1450.0,,1450.0,n,Neandertal,Neandertal
+Krapina 3 (C),n,n,130,1200.0,,1200.0,n,Neandertal,Neandertal
+LH 18 (Laetoli 18) Ngaloba,ahs,n. ahs. hs,125,1283.5,,1283.5,n. ahs. hs,Archaic Homo sapiens,Archaic Homo sapiens
+La Chapelle-aux-Saints,n,n,50,1605.1666666666667,1600.0,1609.3333333333333,n,Neandertal,Neandertal
+La Ferrassie 1,n,n,68,1650.2,,1650.2,n,Neandertal,Neandertal
+La Quina 18 (child),n,n,50,1205.0,,1205.0,n,Neandertal,Neandertal
+La Quina 5 (H5),n,n,50,1342.25,,1342.25,n,Neandertal,Neandertal
+Le Moustier 1,n,n,40,1486.2,,1486.2,n,Neandertal,Neandertal
+Lijiang,hs,hs,100,1300.0,,1300.0,hs,Homo sapiens,Homo sapiens
+Liujiang (skull PA 89) (Liu Kwang) (Liu Kiang),hs,hs,67,1480.0,,1480.0,hs,Homo sapiens,Homo sapiens
+MLD-1 (A. prometheus),aa,aa,2900,575.0,,575.0,aa,Australopithecus africanus,A. africanus
+MLD-3,aa,aa,2900,375.0,400.0,387.5,aa,Australopithecus africanus,A. africanus
+MLD37-38 (MLD 37/43),aa,aa,2900,446.6666666666667,,446.6666666666667,aa,Australopithecus africanus,A. africanus
+Minatogawa 1,hs,hs,18,1390.0,,1390.0,hs,Homo sapiens,Homo sapiens
+Minatogawa 2,hs,hs,18,1170.0,,1170.0,hs,Homo sapiens,Homo sapiens
+Minatogawa 4,hs,hs,18,1090.0,,1090.0,hs,Homo sapiens,Homo sapiens
+Mladec 1 (16-17 year old) (Lautsch),hs,hs,35,1573.0,,1573.0,hs,Homo sapiens,Homo sapiens
+Mladec 2 (17-18 year old) (Lautsch),hs,hs,35,1390.0,,1390.0,hs,Homo sapiens,Homo sapiens
+Mladec 5 (Lautsch),hs,hs,35,1575.0,,1575.0,hs,Homo sapiens,Homo sapiens
+Modjokerto (adult) (Perning I. Pithecanthropus V),he,he,1800,845.0,860.0,855.0,he,Homo erectus,Homo erectus
+Modjokerto (child) (Perning I. Pithecanthropus V),he,he,1800,664.75,700.0,672.75,he,Homo erectus,Homo erectus
+Monte Circeo I (Guattari. Circeo 1),n,n,55,1551.0,,1551.0,n,Neandertal,Neandertal
+Narmada 1,ahs,ahs. hs,300,1205.0,1421.0,1249.3333333333333,ahs. hs,Archaic Homo sapiens,Archaic Homo sapiens
+Nazlet Khater 1,hs,hs,33,1420.0,,1420.0,hs,Homo sapiens,Homo sapiens
+Ndutu 1,ahs,he-n. ahs,350,1100.0,,1100.0,he-n. ahs,Archaic Homo sapiens,Archaic Homo sapiens
+Neandertal 1,n,n,50,1337.75,,1337.75,n,Neandertal,Neandertal
+OH 12,he,he,840,715.6666666666666,800.0,732.3333333333334,he,Homo erectus,Homo erectus
+OH13 (Cinderella)(adult) (Olduvai hominid),hh,aa. aa-hh. hh,1660,662.2857142857143,,662.2857142857143,aa. aa-hh. hh,Homo habilis,Homo habilis
+OH13 (Cinderella)(juv) (Olduvai hominid),hh,aa. aa-hh. hh,1660,630.2857142857143,,630.2857142857143,aa. aa-hh. hh,Homo habilis,Homo habilis
+OH16 (George) (adult) (Olduvai hominid),hh,aa-hh. hh. h,1670,639.2,,639.2,aa-hh. hh. h,Homo habilis,Homo habilis
+OH16 (George) (juv) (Olduvai hominid),hh,aa-hh. hh. h,1670,613.8333333333334,,613.8333333333334,aa-hh. hh. h,Homo habilis,Homo habilis
+OH24 (Twiggy) (Olduvai hominid 24),hh,hh. aa,1800,586.0,,586.0,hh. aa,Homo habilis,Homo habilis
+OH5 (Zinj) (Olduvai hominid),ab,ab. ar-ab,1770,588.0,,588.0,ab. ar-ab,Australopithecus boisei,A. boisei
+OH7 (Olduvai hominid)(juv),hh,ar. aa-hh. hh,1780,650.6666666666666,715.0,652.5,ar. aa-hh. hh,Homo habilis,Homo habilis
+OH7 (adult) (Olduvai hominid),hh,ar. aa-hh. hh,1780,679.0,,679.0,ar. aa-hh. hh,Homo habilis,Homo habilis
+OH9 (Chellean man),he,he,1200,1056.75,1135.0,1070.5,he,Homo erectus,Homo erectus
+Oberkassel 1,hs,hs,12,1500.0,,1500.0,hs,Homo sapiens,Homo sapiens
+Oberkassel 2,hs,hs,12,1338.0,,1338.0,hs,Homo sapiens,Homo sapiens
+Ofnet 21.1,hs,hs,11,1500.0,,1500.0,hs,Homo sapiens,Homo sapiens
+Ofnet 24.1,hs,hs,11,1420.0,,1420.0,hs,Homo sapiens,Homo sapiens
+Omo 1,hs,hs,130,1400.0,,1400.0,hs,Homo sapiens,Homo sapiens
+Omo 2. Omo-Kibish 2,hs,n-hs. hs,130,1432.5,,1432.5,n-hs. hs,Homo sapiens,Homo sapiens
+Omo L 323-1976-896,ab,ab,2250,490.0,,490.0,ab,Australopithecus boisei,A. boisei
+Omo L338y-6 (adult),a,a. aae. aa. ab,2390,444.0,,444.0,a. aae. aa. ab,,
+Omo L338y-6 (child 10yo) (Omo 338s),a ,a .aae. aa. ab,2390,427.0,,427.0,a .aae. aa. ab,,
+Omo L894-1,h,h,1890,500.0,,500.0,h,Homo,Homo
+Paderbourne,hs,hs,27,1531.0,,1531.0,hs,Homo sapiens,Homo sapiens
+Palli Aike 773,hs,hs,11,1480.0,,1480.0,hs,Homo sapiens,Homo sapiens
+Pataud 1,hs,hs,21,1380.0,,1380.0,hs,Homo sapiens,Homo sapiens
+Pavlov 1,hs,hs,26,1522.0,,1522.0,hs,Homo sapiens,Homo sapiens
+Petralona 1,ahs,n-he. ahs. hhei,300,1265.4444444444443,1210.0,1266.5555555555557,n-he. ahs. hhei,Archaic Homo sapiens,Archaic Homo sapiens
+Plesianthropus (B),ples transv,ples transv. aa,2500,600.0,,600.0,ples transv. aa,Plesianthropus transvaalensis,Plesianthropus transvaalensis
+Plesianthropus type (A),ples transv,ples transv. aa,2500,440.0,,440.0,ples transv. aa,Plesianthropus transvaalensis,Plesianthropus transvaalensis
+Plesianthropus type 2,aa,aa. ples trans,2500,495.6666666666667,560.0,510.6666666666667,aa. ples trans,Australopithecus africanus,A. africanus
+Plesianthropus type 3,aa,aa. ples trans,2500,286.0,,286.0,aa. ples trans,Australopithecus africanus,A. africanus
+Poloyo 1 (PL-1). Sambungmacan 3 (SM 3),he,he,200,900.0,,900.0,he,Homo erectus,Homo erectus
+Predmosti 10,hs,hs,27,1452.0,,1452.0,hs,Homo sapiens,Homo sapiens
+Predmosti 3,hs,hs,27,1594.0,,1594.0,hs,Homo sapiens,Homo sapiens
+Predmosti 4,hs,hs,27,1422.6666666666667,,1422.6666666666667,hs,Homo sapiens,Homo sapiens
+Predmosti 9,hs,hs,27,1555.0,,1555.0,hs,Homo sapiens,Homo sapiens
+Qafzeh 11 (Jebel Qafzeh 11) (Kafzeh 11),hs,hs,93,1280.0,,1280.0,hs,Homo sapiens,Homo sapiens
+Qafzeh 6 (Jebel Qafzeh 6) (Kafzeh 6),hs,hs,93,1559.3333333333333,,1559.3333333333333,hs,Homo sapiens,Homo sapiens
+Qafzeh 9 (Jebel Qafzeh 9) (Kafzeh 9) (subadult),hs,hs,93,1531.0,,1531.0,hs,Homo sapiens,Homo sapiens
+Reilingn,ahs,ahs,300,1432.0,,1432.0,ahs,Archaic Homo sapiens,Archaic Homo sapiens
+SK 27,h,h,1900,475.0,,475.0,h,Homo,Homo
+SK 46,ar,ar,1900,712.5,,712.5,ar,Australopithecus robustus,A. robustus
+SK 47 (adult),ar,ar. early h,1900,480.0,710.0,595.0,ar. early h,Australopithecus robustus,A. robustus
+SK 47 (juv. 11 year old),ar,ar. early h,1900,383.5,456.0,429.5,ar. early h,Australopithecus robustus,A. robustus
+SK 48,ar,ar,1900,600.0,,600.0,ar,Australopithecus robustus,A. robustus
+SK 49,ar,ar,1900,475.0,,475.0,ar,Australopithecus robustus,A. robustus
+SK 52,ar,ar,1900,575.0,,575.0,ar,Australopithecus robustus,A. robustus
+SK 54,ar,ar,1900,475.0,,475.0,ar,Australopithecus robustus,A. robustus
+SK 80,h,h,1900,475.0,,475.0,h,Homo,Homo
+SK 847,h,h. hh/he. herg. early h,1900,419.5,635.0,507.0,h. hh,Homo,Homo
+SK ? ,ar,ar,1900,1000.0,,1000.0,ar,Australopithecus robustus,A. robustus
+SK ? (6-7 year old. male),ar,ar,1900,750.0,800.0,775.0,ar,Australopithecus robustus,A. robustus
+SK ? (adolescent. female),ar,ar,1900,700.0,,700.0,ar,Australopithecus robustus,A. robustus
+SK1585,ar,ar,1900,501.6666666666667,,501.6666666666667,ar,Australopithecus robustus,A. robustus
+SK80/847,h,h. hh/he. herg,1900,500.0,,500.0,h. hh,Homo,Homo
+STS 17,aa,aa,2500,400.0,425.0,412.5,aa,Australopithecus africanus,A. africanus
+STS 25,aa,aa,2500,350.0,375.0,362.5,aa,Australopithecus africanus,A. africanus
+STS mandible ,aa,aa. ples trans,2500,650.0,725.0,687.5,aa. ples trans,Australopithecus africanus,A. africanus
+STS19/58 (Ples 8. Sterkf 19. Sterkf 8. Sts 8),aa,aa. ples trans,2500,520.2,560.0,524.7,aa. ples trans,Australopithecus africanus,A. africanus
+STS5 (Mrs/Mr Ples. Ples 5. Sterkfontein 5),aa,aa. ples trans,2500,484.4,500.0,486.9,aa. ples trans,Australopithecus africanus,A. africanus
+"STS60 (Ples 1.
+Sterkfontein 1. Sts 1)",aa,aa. ples trans,2500,428.0,,428.0,aa. ples trans,Australopithecus africanus,A. africanus
+STS60 (Ples 1. Sterkfontein 1. Sts 1),aa,aa. ples trans,2500,442.5,,442.5,aa. ples trans,Australopithecus africanus,A. africanus
+STS71 (Ples 7. Sterkfontein 7. Sts 7),aa,aa. ples trans,2500,444.5,520.0,449.5,aa. ples trans,Australopithecus africanus,A. africanus
+Saccopastore 1,n,n. ahs,100,1234.3333333333333,,1234.3333333333333,n. ahs,Neandertal,Neandertal
+Saccopastore 2,n,n,100,1290.0,1300.0,1295.0,n,Neandertal,Neandertal
+Saint Germain-la-Riviere 1,hs,hs,15,1354.0,,1354.0,hs,Homo sapiens,Homo sapiens
+Saldanha 1 (Elandsfontein. Hopefield),ahs,he. he-ahs. ahs,350,1208.3333333333333,1250.0,1216.6666666666667,he. he-ahs. ahs,Archaic Homo sapiens,Archaic Homo sapiens
+Salé 1,he,he,400,908.0,960.0,911.0,he,Homo erectus,Homo erectus
+Sambungmacan 1 (Sambungmachan 1),he,he. hs,500,1056.3333333333333,,1056.3333333333333,he. hs,Homo erectus,Homo erectus
+San Teodoro 1,hs,hs,11,1565.0,,1565.0,hs,Homo sapiens,Homo sapiens
+San Teodoro 2,hs,hs,11,1569.0,,1569.0,hs,Homo sapiens,Homo sapiens
+San Teodoro 3,hs,hs,11,1560.0,,1560.0,hs,Homo sapiens,Homo sapiens
+San Teodoro 5,hs,hs,11,1484.0,,1484.0,hs,Homo sapiens,Homo sapiens
+San Teodoro 7 (ST7),hs,hs,12,1500.0,,1500.0,hs,Homo sapiens,Homo sapiens
+Sangiran 10 (Pithecanthropus V. VI; Homo erectus V. VI)(S10),he,he. pe,850,868.6,,868.6,he. pe,Homo erectus,Homo erectus
+Sangiran 12 (Pithecanthropus VII. Homo erectus VII) (S12),he,he. pe,900,951.0,,951.0,he. pe,Homo erectus,Homo erectus
+Sangiran 17 (Pithecanthropus VIII. Homo erectus VIII)(S17),he,he. pe,900,1020.0,,1020.0,he. pe,Homo erectus,Homo erectus
+Sangiran 2 (Pithecanthropus II. Homo erectus II) (S2),he,he. pe,900,792.5714285714286,,792.5714285714286,he. pe,Homo erectus,Homo erectus
+Sangiran 3 (adult) (Pithecanthropus III. Homo erectus III)(S3),he,he. pe,900,900.0,,900.0,he. pe,Homo erectus,Homo erectus
+Sangiran 3 (juv) (Pithecanthropus III. Homo erectus III) (S3),he,he. pe,900,890.0,,890.0,he. pe,Homo erectus,Homo erectus
+Sangiran 31 (S 31),he,he,1660,1000.0,,1000.0,he,Homo erectus,Homo erectus
+Sangiran 4 (Pithecanthropus IV) (Homo erectus IV) (S4),he,he. pr,1000,856.0,,856.0,he. pr,Homo erectus,Homo erectus
+Sangiran 9 (Pithecanthropus IX),he,he,1200,856.0,,856.0,he,Homo erectus,Homo erectus
+Shanidar 1,n,n,50,1650.0,,1650.0,n,Neandertal,Neandertal
+Shanidar 5,n,n,50,1550.0,,1550.0,n,Neandertal,Neandertal
+Singa 1,n,n. hs,150,1550.0,,1550.0,n. hs,Neandertal,Neandertal
+Skhul 2,hs,n. n-hs. hs,90,1300.0,,1300.0,n. n-hs. hs,Homo sapiens,Homo sapiens
+Skhul 4,hs,n. n-hs. hs,90,1554.5,,1554.5,n. n-hs. hs,Homo sapiens,Homo sapiens
+Skhul 5,hs,n. n-hs. hs,90,1499.5,,1499.5,n. n-hs. hs,Homo sapiens,Homo sapiens
+Skhul 6 (possible confusion with Skhul 9),hs,n . n-hs. hs,90,1585.0,,1585.0,n . n-hs. hs,Homo sapiens,Homo sapiens
+Skhul 9,hs,n. n-hs. hs,90,1587.3333333333333,,1587.3333333333333,n. n-hs. hs,Homo sapiens,Homo sapiens
+Solo 1 . Ngandong 1,he,he. he-n,200,1121.4285714285713,,1121.4285714285713,he. he-n,Homo erectus,Homo erectus
+Solo 10. Ngandong X. Ngandong 11,he,he. he-n,200,1143.0,,1143.0,he. he-n,Homo erectus,Homo erectus
+Solo 10. Ngandong X. Ngandong 12,he,he. he-n,200,1075.0,,1075.0,he. he-n,Homo erectus,Homo erectus
+Solo 5. Ngandong V. Ngangdong 6,he,he. he-n,200,1266.1666666666667,,1266.1666666666667,he. he-n,Homo erectus,Homo erectus
+Solo 6. Ngandong VI. Ngandong 7,he,he. he-n,200,1115.7142857142858,,1115.7142857142858,he. he-n,Homo erectus,Homo erectus
+Solo 9. Ngandong IX. Ngandong 10,he,he. he-n,200,1135.0,,1135.0,he. he-n,Homo erectus,Homo erectus
+Spy 1,n,n,50,1471.75,,1471.75,n,Neandertal,Neandertal
+Spy 1 (or Spy 2 ?),n,n,50,1429.0,,1429.0,n,Neandertal,Neandertal
+Spy 2,n,n,50,1526.3333333333333,,1526.3333333333333,n,Neandertal,Neandertal
+Spy 2 (or Spy 1 ?),n,n,50,1429.0,,1429.0,n,Neandertal,Neandertal
+Steinheim 1,ahs,he-hs. he-n. n. ahs. hs. hhei,300,1109.076923076923,1194.5,1111.1923076923076,he-hs. he-n. n. ahs. hs. hhei,Archaic Homo sapiens,Archaic Homo sapiens
+Stw 53,,,1900,460.0,680.0,570.0,early h,Australopithecus robustus,A. robustus
+Stw505 (Mr Ples),aa,aa,2500,567.5833333333334,595.15,570.7333333333333,aa,Australopithecus africanus,A. africanus
+Suard 1. La Chaise,n,n,151,1065.0,,1065.0,n,Neandertal,Neandertal
+Subalyuk Cave (child 5-7),n,n,43,1000.0,1100.0,1050.0,n,Neandertal,Neandertal
+Swanscombe 1,ahs,he-hs. he-n. n. ahs. hs,300,1305.0,,1305.0,he-hs. he-n. n. ahs. hs,Archaic Homo sapiens,Archaic Homo sapiens
+TM1511,aa,aa,2000,425.0,450.0,437.5,aa,Australopithecus africanus,A. africanus
+TM1517a (Kromdaai B),ar,par. ar,2000,625.0,,625.0,par. ar,Australopithecus robustus,A. robustus
+Tabun C1,n,n,100,1270.5,,1270.5,n,Neandertal,Neandertal
+Talgai 1,hs,hs,12,1335.0,,1335.0,hs,Homo sapiens,Homo sapiens
+Taung child,aa,aa,2000,467.57142857142856,520.0,469.0,aa,Australopithecus africanus,A. africanus
+Taung child (adult),aa,aa,2000,547.5714285714286,285.5,529.5,aa,Australopithecus africanus,A. africanus
+Taza 1 (f),hs,hs,16,1125.0,,1125.0,hs,Homo sapiens,Homo sapiens
+Tepexpan,hs,hs,10,1540.0,,1540.0,hs,Homo sapiens,Homo sapiens
+Ternifine (Tighenif),ahs,ahs,750,1300.0,,1300.0,ahs,Archaic Homo sapiens,Archaic Homo sapiens
+Teshik-Tash (9 year old) (Teshik-Tash),n,n,60,1495.0,,1495.0,n,Neandertal,Neandertal
+Teshik-Tash (adult),n,n,60,1581.0,,1581.0,n,Neandertal,Neandertal
+Trinil 2 (Pithecanthropus I. Homo erectus I),he,he. pe,900,918.7,5.0,874.1,he. pe,Homo erectus,Homo erectus
+Tuinplass. (Springbok),hs,hs,15,1540.0,,1540.0,hs,Homo sapiens,Homo sapiens
+Tze-Yang,hs,hs,10,1210.0,,1210.0,hs,Homo sapiens,Homo sapiens
+UA 31,h,h,1000,750.0,800.0,775.0,h,Homo,Homo
+Veryier 1,hs,hs,10,1430.0,,1430.0,hs,Homo sapiens,Homo sapiens
+Vértesszöllös 2,ahs,he. he-n. n. ahs. hs,186,1311.5714285714287,1437.0,1334.5714285714287,he. he-n. n. ahs. hs,Archaic Homo sapiens,Archaic Homo sapiens
+WLH 50 (Willandra Lakes hominid 50),hs,hs,15,1540.0,,1540.0,hs,Homo sapiens,Homo sapiens
+Wadjak 1,hs,hs,15,1539.3333333333333,,1539.3333333333333,hs,Homo sapiens,Homo sapiens
+Wadjak 2,hs,hs,15,1650.0,,1650.0,hs,Homo sapiens,Homo sapiens
+Yunxian (EV9002 skull II),he,he,350,1100.0,,1100.0,he,Homo erectus,Homo erectus
+Zhouk (XXI) (possible confusion with XII),he,he. sin pek,400,1030.0,,1030.0,he. sin pek,Homo erectus,Homo erectus
+Zhoukoudian (VI) (Sin VI),he,he. sin pek,300,850.0,,850.0,he. sin pek,Homo erectus,Homo erectus
+Zhoukoudian 101 (Up. Cave 1. Shandingdong),hs,hs,27,1500.0,,1500.0,hs,Homo sapiens,Homo sapiens
+Zhoukoudian 102 (Up. Cave 2. Shandingdong),hs,hs,27,1380.0,,1380.0,hs,Homo sapiens,Homo sapiens
+Zhoukoudian 103 (Up. Cave 3. Shandingdong),hs,hs,27,1295.0,,1295.0,hs,Homo sapiens,Homo sapiens
+Zhoukoudian D1 (II) (Sin II),he,he. sin pek,400,1030.0,,1030.0,he. sin pek,Homo erectus,Homo erectus
+Zhoukoudian E1 (III) (juv) (Sin III),he,he. sin pek,550,937.5,,937.5,he. sin pek,Homo erectus,Homo erectus
+Zhoukoudian H3 (V),he,he. sin pek,400,1220.0,,1220.0,he. sin pek,Homo erectus,Homo erectus
+Zhoukoudian L1 (X) (Sin X),he,he. sin pek,400,1225.0,,1225.0,he. sin pek,Homo erectus,Homo erectus
+Zhoukoudian L2 (XI)(Sin XI),he,he. sin pek,400,1015.0,,1015.0,he. sin pek,Homo erectus,Homo erectus
+Zhoukoudian L3 (XII) (Sin XII),he,he. sin pek,400,1030.0,,1030.0,he. sin pek,Homo erectus,Homo erectus

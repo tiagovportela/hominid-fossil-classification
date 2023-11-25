@@ -136,6 +136,11 @@ final_columns = [
 
 import pandas as pd
 
+#save all dataframes in csv
+cranial_capacity.reset_index().sort_values(by='ID').to_csv('data/clean/cranial_capacity.csv', index=False)
+cranial_metrics.reset_index().sort_values(by='ID').to_csv('data/clean/cranial_metrics.csv', index=False)
+age_bm.reset_index().sort_values(by='ID').to_csv('data/clean/age_bm.csv', index=False)
+age_bm_ecv.reset_index().sort_values(by='ID').to_csv('data/clean/age_bm_ecv.csv', index=False)
 
 data = pd.merge(cranial_metrics, age_bm_ecv, on='ID', how='outer')
 data = pd.merge(data, age_bm, on='ID', how='outer')
@@ -147,6 +152,6 @@ print(f"final data len: {data.shape[0]}")
 print(f"Nulls Percentage:\n {data.isna().sum() / data.shape[0] * 100}%")
 
 #save data
-data.reset_index().sort_values(by='ID').to_csv('data/data.csv', index=False)
+data.reset_index().sort_values(by='ID').to_csv('data/clean/data.csv', index=False)
 
 
